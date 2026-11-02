@@ -1,0 +1,1401 @@
+customer_id,trading_name,channel,segment,province,credit_limit,payment_terms,onboarded_date,rep_id
+C-00001,Halvane Retail Group,Wholesale,Grocery Chain,Western Cape,6000000,60,2016-03-14,R-001
+C-00002,Roasted Bean Cafe 58,Wholesale,Hotel Group,KwaZulu-Natal,50000,60,2013-07-22,R-015
+C-00003,Ridgeway Foods 205,Wholesale,Restaurant Group,Western Cape,50000,60,2018-12-12,R-003
+C-00004,Kalahari Kitchen 162,Wholesale,Restaurant Group,Gauteng,100000,60,2011-04-22,R-011
+C-00005,Cape Point Coffee 379,Wholesale,Independent Cafe,KwaZulu-Natal,250000,60,2015-02-17,R-007
+C-00006,Zebra Cafe 76,Wholesale,Hotel Group,Western Cape,500000,60,2013-06-25,R-017
+C-00007,Vaal Trading Co 96,Wholesale,Restaurant Group,Western Cape,50000,60,2017-03-17,R-010
+C-00008,Bloom Coffee House 354,Wholesale,Independent Cafe,Western Cape,100000,60,2017-10-18,R-010
+C-00009,Karoo Provisions 373,Wholesale,Restaurant Group,Gauteng,50000,60,2015-01-20,R-010
+C-00010,Roasted Bean Cafe 360,Wholesale,Restaurant Group,Gauteng,1000000,60,2011-10-30,R-011
+C-00011,Highveld Deli 228,Wholesale,Independent Cafe,KwaZulu-Natal,50000,60,2013-12-29,R-018
+C-00012,Roasted Bean Cafe 136,Wholesale,Grocery Chain,Gauteng,250000,60,2022-10-27,R-005
+C-00013,The Daily Grind 342,Wholesale,Independent Cafe,Gauteng,250000,60,2014-06-18,R-018
+C-00014,Cape Point Coffee 383,Wholesale,Restaurant Group,Eastern Cape,50000,60,2021-11-07,R-004
+C-00015,Kalahari Kitchen 173,Wholesale,Independent Cafe,Gauteng,500000,60,2022-03-15,R-018
+C-00016,Roasted Bean Cafe 363,Wholesale,Restaurant Group,Gauteng,50000,60,2015-04-12,R-004
+C-00017,Umhlanga Fresh 197,Wholesale,Hotel Group,Eastern Cape,250000,60,2023-03-21,R-010
+C-00018,Bloom Coffee House 4,Wholesale,Independent Cafe,Gauteng,50000,60,2017-06-24,R-007
+C-00019,Corner Perk 278,Wholesale,Hotel Group,KwaZulu-Natal,1000000,60,2013-05-17,R-016
+C-00020,Table Bay Foods 193,Wholesale,Restaurant Group,Mpumalanga,100000,60,2020-01-15,R-006
+C-00021,Boland Bakery 235,Wholesale,Independent Cafe,Gauteng,100000,60,2018-03-16,R-012
+C-00022,Bloom Coffee House 286,Wholesale,Grocery Chain,Gauteng,250000,60,2021-03-21,R-017
+C-00023,Ridgeway Foods 395,Wholesale,Independent Cafe,KwaZulu-Natal,1000000,60,2013-03-05,R-011
+C-00024,Ridgeway Foods 5,Wholesale,Hotel Group,Mpumalanga,50000,60,2017-09-16,R-001
+C-00025,Roasted Bean Cafe 209,Wholesale,Grocery Chain,Gauteng,50000,60,2018-08-28,R-009
+C-00026,Ridgeway Foods 76,Wholesale,Restaurant Group,Western Cape,100000,60,2022-12-20,R-007
+C-00027,The Daily Grind 161,Wholesale,Independent Cafe,Western Cape,50000,60,2015-11-08,R-018
+C-00028,Sunrise Foods 277,Wholesale,Restaurant Group,Gauteng,100000,60,2021-05-12,R-004
+C-00029,The Daily Grind 241,Wholesale,Grocery Chain,Western Cape,50000,60,2013-12-13,R-004
+C-00030,Midrand Market 279,Wholesale,Restaurant Group,Gauteng,250000,60,2011-12-05,R-005
+C-00031,Karoo Provisions 180,Wholesale,Restaurant Group,Western Cape,50000,60,2020-09-07,R-009
+C-00032,Table Bay Foods 183,Wholesale,Restaurant Group,Gauteng,100000,60,2011-07-05,R-014
+C-00033,Bloom Coffee House 154,Wholesale,Independent Cafe,Gauteng,500000,60,2022-10-13,R-008
+C-00034,Table Bay Foods 188,Wholesale,Restaurant Group,KwaZulu-Natal,100000,60,2012-06-12,R-012
+C-00035,Midrand Market 103,Wholesale,Independent Cafe,Gauteng,250000,60,2012-06-01,R-016
+C-00036,Highveld Deli 265,Wholesale,Independent Cafe,Western Cape,1000000,60,2017-04-17,R-016
+C-00037,Corner Perk 78,Wholesale,Independent Cafe,KwaZulu-Natal,100000,60,2021-11-25,R-017
+C-00038,Bloom Coffee House 143,Wholesale,Independent Cafe,Free State,1000000,60,2013-06-03,R-013
+C-00039,Cape Point Coffee 258,Wholesale,Independent Cafe,Western Cape,1000000,60,2012-08-15,R-002
+C-00040,The Daily Grind 144,Wholesale,Grocery Chain,Gauteng,250000,60,2017-03-07,R-010
+C-00041,Cape Point Coffee 36,Wholesale,Hotel Group,Gauteng,50000,60,2022-06-17,R-009
+C-00042,Roasted Bean Cafe 91,Wholesale,Independent Cafe,Western Cape,100000,60,2017-12-17,R-016
+C-00043,Karoo Provisions 383,Wholesale,Restaurant Group,Free State,1000000,60,2011-07-11,R-014
+C-00044,Karoo Provisions 76,Wholesale,Restaurant Group,Gauteng,500000,60,2013-03-14,R-004
+C-00045,Bloom Coffee House 340,Wholesale,Hotel Group,Gauteng,50000,60,2015-06-06,R-006
+C-00046,Zebra Cafe 337,Wholesale,Grocery Chain,Gauteng,50000,60,2014-12-06,R-017
+C-00047,Boland Bakery 301,Wholesale,Independent Cafe,Limpopo,100000,60,2021-03-18,R-001
+C-00048,Bloom Coffee House 208,Wholesale,Hotel Group,Limpopo,50000,60,2012-01-29,R-017
+C-00049,Kalahari Kitchen 390,Wholesale,Hotel Group,North West,100000,60,2011-07-13,R-016
+C-00050,Umhlanga Fresh 87,Wholesale,Independent Cafe,Western Cape,100000,60,2022-04-12,R-005
+C-00051,Corner Perk 311,Wholesale,Independent Cafe,KwaZulu-Natal,100000,60,2014-04-25,R-003
+C-00052,Bloom Coffee House 135,Wholesale,Restaurant Group,Free State,1000000,60,2018-12-06,R-002
+C-00053,The Daily Grind 288,Wholesale,Restaurant Group,Western Cape,100000,60,2016-10-04,R-003
+C-00054,Table Bay Foods 22,Wholesale,Restaurant Group,Limpopo,100000,60,2022-02-11,R-015
+C-00055,The Daily Grind 357,Wholesale,Grocery Chain,Western Cape,100000,60,2015-08-09,R-018
+C-00056,Midrand Market 362,Wholesale,Independent Cafe,KwaZulu-Natal,500000,60,2011-10-12,R-007
+C-00057,Bloom Coffee House 87,Wholesale,Grocery Chain,Eastern Cape,500000,60,2022-02-14,R-012
+C-00058,Roasted Bean Cafe 308,Wholesale,Independent Cafe,Eastern Cape,50000,60,2015-01-01,R-002
+C-00059,Roasted Bean Cafe 359,Wholesale,Grocery Chain,KwaZulu-Natal,250000,60,2011-09-03,R-006
+C-00060,Table Bay Foods 171,Wholesale,Hotel Group,KwaZulu-Natal,50000,60,2021-07-04,R-011
+C-00061,Midrand Market 235,Wholesale,Restaurant Group,KwaZulu-Natal,250000,60,2015-05-14,R-016
+C-00062,Table Bay Foods 393,Wholesale,Independent Cafe,Gauteng,500000,60,2016-09-09,R-005
+C-00063,Umhlanga Fresh 118,Wholesale,Hotel Group,Eastern Cape,50000,60,2011-04-09,R-002
+C-00064,Midrand Market 271,Wholesale,Grocery Chain,Gauteng,50000,60,2011-06-08,R-018
+C-00065,Ridgeway Foods 203,Wholesale,Grocery Chain,Gauteng,50000,60,2013-01-01,R-016
+C-00066,Midrand Market 119,Wholesale,Independent Cafe,Gauteng,50000,60,2020-09-21,R-016
+C-00067,Bloom Coffee House 210,Wholesale,Independent Cafe,Western Cape,250000,60,2015-02-07,R-012
+C-00068,Bloom Coffee House 58,Wholesale,Independent Cafe,Gauteng,50000,60,2018-05-21,R-006
+C-00069,Corner Perk 227,Wholesale,Independent Cafe,KwaZulu-Natal,100000,60,2012-11-16,R-017
+C-00070,Corner Perk 264,Wholesale,Independent Cafe,Western Cape,100000,60,2017-01-07,R-005
+C-00071,Karoo Provisions 10,Wholesale,Grocery Chain,KwaZulu-Natal,100000,60,2020-03-08,R-012
+C-00072,Vaal Trading Co 217,Wholesale,Independent Cafe,Gauteng,100000,60,2020-11-18,R-009
+C-00073,Midrand Market 298,Wholesale,Hotel Group,Gauteng,500000,60,2016-05-19,R-005
+C-00074,Midrand Market 116,Wholesale,Independent Cafe,North West,100000,60,2013-04-19,R-007
+C-00075,Zebra Cafe 120,Wholesale,Grocery Chain,Western Cape,500000,60,2016-03-20,R-007
+C-00076,Sunrise Foods 331,Wholesale,Independent Cafe,Gauteng,50000,60,2012-02-04,R-002
+C-00077,Zebra Cafe 153,Wholesale,Grocery Chain,Gauteng,50000,60,2017-12-16,R-005
+C-00078,Roasted Bean Cafe 114,Wholesale,Grocery Chain,North West,100000,60,2014-12-10,R-012
+C-00079,Vaal Trading Co 236,Wholesale,Independent Cafe,Western Cape,500000,60,2019-01-29,R-010
+C-00080,Vaal Trading Co 289,Wholesale,Independent Cafe,Gauteng,50000,60,2020-12-30,R-005
+C-00081,Kalahari Kitchen 296,Wholesale,Restaurant Group,Gauteng,100000,60,2012-10-23,R-014
+C-00082,The Daily Grind 378,Wholesale,Independent Cafe,KwaZulu-Natal,500000,60,2014-01-17,R-017
+C-00083,Cape Point Coffee 14,Wholesale,Grocery Chain,Gauteng,50000,60,2020-05-15,R-011
+C-00084,Highveld Deli 16,Wholesale,Independent Cafe,Western Cape,100000,60,2021-04-11,R-001
+C-00085,Umhlanga Fresh 373,Wholesale,Restaurant Group,Western Cape,250000,60,2016-10-01,R-015
+C-00086,Sunrise Foods 115,Wholesale,Independent Cafe,KwaZulu-Natal,50000,60,2020-07-06,R-001
+C-00087,Zebra Cafe 244,Wholesale,Grocery Chain,Gauteng,1000000,60,2016-01-01,R-012
+C-00088,Midrand Market 199,Wholesale,Independent Cafe,Western Cape,50000,60,2022-12-10,R-001
+C-00089,Highveld Deli 394,Wholesale,Hotel Group,KwaZulu-Natal,250000,60,2013-12-26,R-015
+C-00090,Umhlanga Fresh 62,Wholesale,Grocery Chain,Western Cape,100000,60,2019-09-24,R-006
+C-00091,Boland Bakery 373,Wholesale,Independent Cafe,KwaZulu-Natal,100000,60,2021-10-22,R-013
+C-00092,Roasted Bean Cafe 227,Wholesale,Independent Cafe,KwaZulu-Natal,250000,60,2020-04-11,R-013
+C-00093,Corner Perk 205,Wholesale,Restaurant Group,Limpopo,1000000,60,2012-12-13,R-009
+C-00094,Table Bay Foods 276,Wholesale,Independent Cafe,Western Cape,250000,60,2013-03-25,R-010
+C-00095,Cape Point Coffee 265,Wholesale,Independent Cafe,Gauteng,250000,60,2011-01-12,R-016
+C-00096,Karoo Provisions 278,Wholesale,Restaurant Group,Western Cape,100000,60,2017-02-11,R-006
+C-00097,Roasted Bean Cafe 42,Wholesale,Independent Cafe,North West,250000,60,2014-01-08,R-001
+C-00098,Boland Bakery 154,Wholesale,Restaurant Group,KwaZulu-Natal,100000,60,2014-07-27,R-017
+C-00099,Sunrise Foods 332,Wholesale,Restaurant Group,Free State,100000,60,2020-04-20,R-018
+C-00100,Roasted Bean Cafe 31,Wholesale,Independent Cafe,Free State,100000,60,2012-09-23,R-004
+C-00101,Umhlanga Fresh 172,Wholesale,Independent Cafe,Gauteng,50000,60,2019-05-26,R-004
+C-00102,Sunrise Foods 246,Wholesale,Independent Cafe,Western Cape,50000,60,2017-01-07,R-012
+C-00103,Sunrise Foods 67,Wholesale,Grocery Chain,KwaZulu-Natal,100000,60,2023-02-06,R-003
+C-00104,Corner Perk 33,Wholesale,Restaurant Group,Western Cape,100000,60,2015-06-28,R-010
+C-00105,Ridgeway Foods 375,Wholesale,Independent Cafe,Gauteng,1000000,60,2015-12-11,R-018
+C-00106,Sunrise Foods 337,Wholesale,Independent Cafe,Western Cape,50000,60,2022-12-25,R-004
+C-00107,Karoo Provisions 226,Wholesale,Hotel Group,Eastern Cape,500000,60,2016-04-25,R-018
+C-00108,Corner Perk 207,Wholesale,Hotel Group,Gauteng,100000,60,2019-11-03,R-006
+C-00109,Boland Bakery 216,Wholesale,Hotel Group,Western Cape,50000,60,2020-02-20,R-013
+C-00110,Ridgeway Foods 113,Wholesale,Hotel Group,Gauteng,50000,60,2014-10-28,R-002
+C-00111,Boland Bakery 272,Wholesale,Restaurant Group,Eastern Cape,50000,60,2020-01-01,R-013
+C-00112,Highveld Deli 115,Wholesale,Restaurant Group,Gauteng,500000,60,2017-11-29,R-007
+C-00113,Kalahari Kitchen 280,Wholesale,Restaurant Group,Western Cape,500000,60,2011-02-11,R-007
+C-00114,Umhlanga Fresh 197,Wholesale,Independent Cafe,Western Cape,250000,60,2016-03-02,R-017
+C-00115,The Daily Grind 197,Wholesale,Restaurant Group,Eastern Cape,100000,60,2015-12-13,R-012
+C-00116,Ridgeway Foods 308,Wholesale,Independent Cafe,KwaZulu-Natal,50000,60,2017-07-01,R-004
+C-00117,Kalahari Kitchen 286,Wholesale,Independent Cafe,Western Cape,50000,60,2012-10-17,R-013
+C-00118,Vaal Trading Co 45,Wholesale,Hotel Group,Eastern Cape,250000,60,2020-12-26,R-014
+C-00119,Corner Perk 39,Wholesale,Independent Cafe,Western Cape,250000,60,2012-11-13,R-013
+C-00120,Ridgeway Foods 20,Wholesale,Grocery Chain,Gauteng,250000,60,2013-09-14,R-011
+C-00121,Zebra Cafe 241,Wholesale,Restaurant Group,Gauteng,250000,60,2020-04-27,R-007
+C-00122,Cape Point Coffee 119,Wholesale,Independent Cafe,KwaZulu-Natal,100000,60,2018-01-13,R-001
+C-00123,Highveld Deli 305,Wholesale,Independent Cafe,Free State,100000,60,2013-10-28,R-012
+C-00124,Karoo Provisions 161,Wholesale,Independent Cafe,KwaZulu-Natal,50000,60,2019-01-04,R-005
+C-00125,Highveld Deli 79,Wholesale,Independent Cafe,Gauteng,50000,60,2015-07-05,R-018
+C-00126,Ridgeway Foods 310,Wholesale,Independent Cafe,Mpumalanga,250000,60,2022-10-19,R-014
+C-00127,The Daily Grind 225,Wholesale,Independent Cafe,Gauteng,100000,60,2011-04-17,R-008
+C-00128,Boland Bakery 239,Wholesale,Hotel Group,Western Cape,500000,60,2014-08-03,R-002
+C-00129,Midrand Market 257,Wholesale,Independent Cafe,Gauteng,50000,60,2020-05-08,R-008
+C-00130,Table Bay Foods 347,Wholesale,Independent Cafe,Limpopo,50000,60,2019-05-03,R-014
+C-00131,The Daily Grind 139,Wholesale,Restaurant Group,Mpumalanga,100000,60,2023-04-16,R-017
+C-00132,Corner Perk 274,Wholesale,Restaurant Group,KwaZulu-Natal,50000,60,2016-01-07,R-018
+C-00133,Zebra Cafe 236,Wholesale,Independent Cafe,Gauteng,100000,60,2021-07-12,R-004
+C-00134,Vaal Trading Co 182,Wholesale,Grocery Chain,KwaZulu-Natal,500000,60,2023-02-17,R-011
+C-00135,Table Bay Foods 90,Wholesale,Hotel Group,Gauteng,250000,60,2020-01-19,R-002
+C-00136,The Daily Grind 379,Wholesale,Hotel Group,Western Cape,100000,60,2022-07-12,R-003
+C-00137,Zebra Cafe 129,Wholesale,Independent Cafe,Gauteng,500000,60,2012-04-10,R-006
+C-00138,Table Bay Foods 13,Wholesale,Restaurant Group,KwaZulu-Natal,500000,60,2022-08-06,R-011
+C-00139,Zebra Cafe 297,Wholesale,Restaurant Group,Gauteng,250000,60,2020-09-27,R-014
+C-00140,Karoo Provisions 57,Wholesale,Independent Cafe,Gauteng,250000,60,2017-12-06,R-011
+C-00141,Bloom Coffee House 380,Wholesale,Independent Cafe,Gauteng,250000,60,2013-03-08,R-013
+C-00142,Bloom Coffee House 337,Wholesale,Independent Cafe,Gauteng,500000,60,2016-01-02,R-013
+C-00143,Karoo Provisions 395,Wholesale,Grocery Chain,KwaZulu-Natal,50000,60,2012-09-14,R-005
+C-00144,Cape Point Coffee 111,Wholesale,Restaurant Group,Limpopo,50000,60,2016-06-13,R-015
+C-00145,Karoo Provisions 343,Wholesale,Independent Cafe,Western Cape,100000,60,2016-07-03,R-007
+C-00146,Vaal Trading Co 234,Wholesale,Grocery Chain,North West,50000,60,2017-12-05,R-008
+C-00147,The Daily Grind 376,Wholesale,Hotel Group,Gauteng,50000,60,2011-05-16,R-012
+C-00148,Midrand Market 132,Wholesale,Hotel Group,KwaZulu-Natal,50000,60,2013-06-22,R-006
+C-00149,Highveld Deli 235,Wholesale,Independent Cafe,Gauteng,50000,60,2021-08-12,R-004
+C-00150,Table Bay Foods 337,Wholesale,Hotel Group,Gauteng,50000,60,2011-06-25,R-002
+C-00151,Karoo Provisions 123,Wholesale,Independent Cafe,Gauteng,100000,60,2015-01-24,R-008
+C-00152,Boland Bakery 124,Wholesale,Restaurant Group,KwaZulu-Natal,100000,60,2015-08-05,R-012
+C-00153,Kalahari Kitchen 112,Wholesale,Independent Cafe,Gauteng,250000,60,2015-10-28,R-016
+C-00154,Roasted Bean Cafe 127,Wholesale,Independent Cafe,Gauteng,50000,60,2012-09-06,R-005
+C-00155,Midrand Market 179,Wholesale,Independent Cafe,Gauteng,50000,60,2012-10-08,R-017
+C-00156,Midrand Market 194,Wholesale,Independent Cafe,Gauteng,100000,60,2022-12-04,R-018
+C-00157,Cape Point Coffee 163,Wholesale,Hotel Group,KwaZulu-Natal,250000,60,2015-10-15,R-001
+C-00158,Zebra Cafe 289,Wholesale,Hotel Group,Gauteng,100000,60,2020-11-12,R-015
+C-00159,Sunrise Foods 90,Wholesale,Restaurant Group,Western Cape,250000,60,2021-06-13,R-001
+C-00160,Boland Bakery 226,Wholesale,Independent Cafe,Western Cape,250000,60,2012-12-29,R-001
+C-00161,The Daily Grind 97,Wholesale,Independent Cafe,KwaZulu-Natal,250000,60,2016-01-07,R-012
+C-00162,Cape Point Coffee 125,Wholesale,Grocery Chain,Mpumalanga,100000,60,2014-09-10,R-007
+C-00163,Vaal Trading Co 92,Wholesale,Restaurant Group,Western Cape,100000,60,2016-05-22,R-014
+C-00164,The Daily Grind 91,Wholesale,Independent Cafe,Gauteng,100000,60,2022-11-05,R-008
+C-00165,Kalahari Kitchen 338,Wholesale,Independent Cafe,Western Cape,250000,60,2023-01-27,R-016
+C-00166,Sunrise Foods 56,Wholesale,Independent Cafe,Gauteng,50000,60,2016-01-21,R-001
+C-00167,Midrand Market 170,Wholesale,Hotel Group,Mpumalanga,100000,60,2018-04-10,R-016
+C-00168,Corner Perk 31,Wholesale,Hotel Group,Gauteng,1000000,60,2017-09-07,R-001
+C-00169,Highveld Deli 147,Wholesale,Independent Cafe,Mpumalanga,250000,60,2020-11-10,R-004
+C-00170,Umhlanga Fresh 23,Wholesale,Independent Cafe,Free State,250000,60,2017-06-12,R-008
+C-00171,Table Bay Foods 355,Wholesale,Independent Cafe,Gauteng,100000,60,2022-08-08,R-004
+C-00172,Table Bay Foods 223,Wholesale,Independent Cafe,Gauteng,250000,60,2014-12-26,R-018
+C-00173,Cape Point Coffee 72,Wholesale,Independent Cafe,KwaZulu-Natal,100000,60,2014-07-19,R-007
+C-00174,Kalahari Kitchen 117,Wholesale,Restaurant Group,Gauteng,250000,60,2013-11-01,R-011
+C-00175,Roasted Bean Cafe 71,Wholesale,Independent Cafe,KwaZulu-Natal,100000,60,2014-04-11,R-015
+C-00176,Sunrise Foods 259,Wholesale,Grocery Chain,Western Cape,100000,60,2017-03-17,R-008
+C-00177,Bloom Coffee House 186,Wholesale,Independent Cafe,Gauteng,1000000,60,2016-07-13,R-017
+C-00178,The Daily Grind 215,Wholesale,Restaurant Group,Eastern Cape,100000,60,2016-07-22,R-004
+C-00179,Roasted Bean Cafe 140,Wholesale,Independent Cafe,Gauteng,250000,60,2014-06-28,R-018
+C-00180,Roasted Bean Cafe 372,Wholesale,Independent Cafe,Western Cape,50000,60,2014-05-16,R-010
+C-00181,Roasted Bean Cafe 194,Wholesale,Restaurant Group,KwaZulu-Natal,50000,60,2014-06-11,R-018
+C-00182,Bloom Coffee House 105,Wholesale,Restaurant Group,Gauteng,100000,60,2015-03-22,R-018
+C-00183,Zebra Cafe 355,Wholesale,Grocery Chain,KwaZulu-Natal,500000,60,2019-12-01,R-005
+C-00184,Highveld Deli 249,Wholesale,Hotel Group,Free State,500000,60,2019-02-19,R-009
+C-00185,Ridgeway Foods 246,Wholesale,Hotel Group,Eastern Cape,250000,60,2014-05-27,R-018
+C-00186,Sunrise Foods 277,Wholesale,Grocery Chain,Limpopo,50000,60,2022-05-09,R-015
+C-00187,Sunrise Foods 206,Wholesale,Hotel Group,Western Cape,50000,60,2012-03-10,R-003
+C-00188,Highveld Deli 268,Wholesale,Independent Cafe,KwaZulu-Natal,100000,60,2023-02-11,R-003
+C-00189,Sunrise Foods 389,Wholesale,Hotel Group,Limpopo,500000,60,2019-04-29,R-007
+C-00190,Umhlanga Fresh 379,Wholesale,Independent Cafe,Gauteng,50000,60,2016-07-24,R-011
+C-00191,Zebra Cafe 311,Wholesale,Hotel Group,Western Cape,100000,60,2015-07-17,R-017
+C-00192,Boland Bakery 376,Wholesale,Restaurant Group,Gauteng,100000,60,2022-11-15,R-002
+C-00193,Roasted Bean Cafe 368,Wholesale,Independent Cafe,Western Cape,100000,60,2019-11-13,R-016
+C-00194,Bloom Coffee House 53,Wholesale,Hotel Group,Gauteng,50000,60,2013-02-05,R-008
+C-00195,Umhlanga Fresh 19,Wholesale,Restaurant Group,Gauteng,50000,60,2015-04-03,R-009
+C-00196,Boland Bakery 221,Wholesale,Independent Cafe,KwaZulu-Natal,50000,60,2014-12-21,R-003
+C-00197,Bloom Coffee House 306,Wholesale,Restaurant Group,Gauteng,500000,60,2021-04-22,R-013
+C-00198,Highveld Deli 127,Wholesale,Independent Cafe,Eastern Cape,100000,60,2022-05-29,R-002
+C-00199,Corner Perk 329,Wholesale,Hotel Group,Western Cape,50000,60,2016-07-08,R-012
+C-00200,Cape Point Coffee 48,Wholesale,Hotel Group,Eastern Cape,250000,60,2014-09-18,R-002
+C-00201,Boland Bakery 365,Wholesale,Independent Cafe,Gauteng,500000,60,2021-05-30,R-005
+C-00202,Highveld Deli 160,Wholesale,Restaurant Group,Eastern Cape,250000,60,2013-02-10,R-007
+C-00203,Boland Bakery 37,Wholesale,Independent Cafe,KwaZulu-Natal,250000,60,2016-11-18,R-014
+C-00204,Boland Bakery 296,Wholesale,Independent Cafe,Western Cape,250000,60,2013-02-04,R-007
+C-00205,Corner Perk 153,Wholesale,Independent Cafe,Free State,250000,60,2015-10-01,R-005
+C-00206,Midrand Market 342,Wholesale,Hotel Group,Gauteng,50000,60,2014-02-12,R-002
+C-00207,The Daily Grind 350,Wholesale,Hotel Group,Limpopo,100000,60,2017-12-15,R-007
+C-00208,Roasted Bean Cafe 375,Wholesale,Restaurant Group,KwaZulu-Natal,100000,60,2012-12-18,R-007
+C-00209,Karoo Provisions 380,Wholesale,Independent Cafe,Gauteng,50000,60,2016-06-05,R-013
+C-00210,Umhlanga Fresh 343,Wholesale,Independent Cafe,Free State,50000,60,2017-12-28,R-015
+C-00211,Karoo Provisions 166,Wholesale,Independent Cafe,Gauteng,250000,60,2015-08-05,R-008
+C-00212,Karoo Provisions 384,Wholesale,Independent Cafe,Limpopo,250000,60,2019-12-09,R-006
+C-00213,Roasted Bean Cafe 235,Wholesale,Independent Cafe,Free State,250000,60,2021-05-22,R-011
+C-00214,Bloom Coffee House 226,Wholesale,Restaurant Group,Gauteng,250000,60,2011-06-21,R-009
+C-00215,Highveld Deli 321,Wholesale,Grocery Chain,Gauteng,100000,60,2018-10-03,R-009
+C-00216,Bloom Coffee House 275,Wholesale,Hotel Group,Gauteng,250000,60,2020-02-21,R-003
+C-00217,Midrand Market 130,Wholesale,Independent Cafe,Western Cape,50000,60,2017-03-05,R-002
+C-00218,The Daily Grind 374,Wholesale,Grocery Chain,Gauteng,500000,60,2018-01-07,R-018
+C-00219,Bloom Coffee House 379,Wholesale,Restaurant Group,KwaZulu-Natal,500000,60,2012-01-01,R-012
+C-00220,Table Bay Foods 308,Wholesale,Restaurant Group,Gauteng,50000,60,2012-01-05,R-015
+C-00221,Highveld Deli 76,Wholesale,Independent Cafe,Gauteng,50000,60,2014-06-26,R-015
+C-00222,Highveld Deli 99,Wholesale,Restaurant Group,Western Cape,100000,60,2023-04-20,R-017
+C-00223,Table Bay Foods 331,Wholesale,Independent Cafe,Limpopo,100000,60,2016-09-24,R-009
+C-00224,Karoo Provisions 182,Wholesale,Grocery Chain,Limpopo,500000,60,2022-05-20,R-009
+C-00225,Roasted Bean Cafe 66,Wholesale,Independent Cafe,Gauteng,250000,60,2016-01-10,R-009
+C-00226,Cape Point Coffee 269,Wholesale,Hotel Group,Gauteng,50000,60,2013-04-28,R-010
+C-00227,Ridgeway Foods 224,Wholesale,Restaurant Group,KwaZulu-Natal,100000,60,2011-07-26,R-004
+C-00228,The Daily Grind 121,Wholesale,Hotel Group,Eastern Cape,100000,60,2014-02-23,R-018
+C-00229,Midrand Market 373,Wholesale,Independent Cafe,Gauteng,250000,60,2020-06-09,R-006
+C-00230,Ridgeway Foods 125,Wholesale,Restaurant Group,Gauteng,100000,60,2021-11-02,R-017
+C-00231,Sunrise Foods 170,Wholesale,Independent Cafe,North West,100000,60,2017-03-20,R-010
+C-00232,Cape Point Coffee 328,Wholesale,Independent Cafe,Gauteng,100000,60,2012-12-29,R-013
+C-00233,Highveld Deli 75,Wholesale,Independent Cafe,Western Cape,250000,60,2018-12-11,R-005
+C-00234,Bloom Coffee House 92,Wholesale,Independent Cafe,KwaZulu-Natal,50000,60,2020-03-02,R-010
+C-00235,Table Bay Foods 126,Wholesale,Restaurant Group,Western Cape,250000,60,2021-12-22,R-006
+C-00236,Zebra Cafe 113,Wholesale,Hotel Group,Limpopo,100000,60,2012-02-25,R-012
+C-00237,Karoo Provisions 310,Wholesale,Grocery Chain,Gauteng,100000,60,2022-08-30,R-009
+C-00238,Midrand Market 293,Wholesale,Independent Cafe,KwaZulu-Natal,250000,60,2021-11-16,R-013
+C-00239,Kalahari Kitchen 338,Wholesale,Independent Cafe,Gauteng,50000,60,2021-01-23,R-007
+C-00240,Zebra Cafe 232,Wholesale,Independent Cafe,Western Cape,50000,60,2013-06-07,R-005
+C-00241,Table Bay Foods 117,Wholesale,Grocery Chain,Limpopo,100000,60,2013-10-04,R-004
+C-00242,Vaal Trading Co 167,Wholesale,Restaurant Group,Gauteng,100000,60,2018-03-23,R-010
+C-00243,The Daily Grind 113,Wholesale,Independent Cafe,Gauteng,100000,60,2021-03-20,R-015
+C-00244,Table Bay Foods 178,Wholesale,Grocery Chain,Western Cape,250000,60,2017-03-05,R-013
+C-00245,Zebra Cafe 362,Wholesale,Grocery Chain,KwaZulu-Natal,50000,60,2011-08-28,R-005
+C-00246,Vaal Trading Co 319,Wholesale,Independent Cafe,Western Cape,100000,60,2014-02-28,R-018
+C-00247,Roasted Bean Cafe 203,Wholesale,Independent Cafe,KwaZulu-Natal,1000000,60,2019-08-04,R-004
+C-00248,Sunrise Foods 385,Wholesale,Restaurant Group,Western Cape,50000,60,2019-11-29,R-009
+C-00249,The Daily Grind 219,Wholesale,Hotel Group,Western Cape,250000,60,2014-02-03,R-002
+C-00250,Umhlanga Fresh 105,Wholesale,Restaurant Group,Western Cape,50000,60,2017-08-16,R-005
+C-00251,Ridgeway Foods 143,Wholesale,Restaurant Group,Gauteng,50000,60,2014-03-06,R-002
+C-00252,Sunrise Foods 200,Wholesale,Grocery Chain,Free State,250000,60,2018-07-24,R-006
+C-00253,Boland Bakery 25,Wholesale,Independent Cafe,Gauteng,100000,60,2015-10-07,R-016
+C-00254,Kalahari Kitchen 204,Wholesale,Independent Cafe,Gauteng,100000,60,2018-03-20,R-016
+C-00255,Table Bay Foods 25,Wholesale,Independent Cafe,KwaZulu-Natal,50000,60,2020-06-02,R-010
+C-00256,Vaal Trading Co 156,Wholesale,Restaurant Group,Gauteng,100000,60,2020-03-07,R-010
+C-00257,Vaal Trading Co 125,Wholesale,Hotel Group,Gauteng,100000,60,2023-03-20,R-014
+C-00258,Bloom Coffee House 193,Wholesale,Independent Cafe,Western Cape,100000,60,2020-05-05,R-010
+C-00259,The Daily Grind 72,Wholesale,Restaurant Group,Free State,500000,60,2012-12-14,R-018
+C-00260,Vaal Trading Co 13,Wholesale,Restaurant Group,Western Cape,1000000,60,2017-05-19,R-006
+C-00261,Ridgeway Foods 376,Wholesale,Independent Cafe,Gauteng,100000,60,2019-08-01,R-008
+C-00262,Bloom Coffee House 49,Wholesale,Independent Cafe,KwaZulu-Natal,100000,60,2014-08-18,R-017
+C-00263,Highveld Deli 370,Wholesale,Independent Cafe,Gauteng,250000,60,2013-12-24,R-003
+C-00264,Midrand Market 304,Wholesale,Restaurant Group,Gauteng,500000,60,2023-03-15,R-017
+C-00265,Boland Bakery 296,Wholesale,Restaurant Group,Gauteng,50000,60,2018-04-25,R-006
+C-00266,Kalahari Kitchen 86,Wholesale,Independent Cafe,Gauteng,100000,60,2021-07-20,R-003
+C-00267,The Daily Grind 323,Wholesale,Independent Cafe,Gauteng,100000,60,2020-09-16,R-014
+C-00268,Sunrise Foods 376,Wholesale,Grocery Chain,Western Cape,50000,60,2019-10-10,R-004
+C-00269,The Daily Grind 158,Wholesale,Independent Cafe,Western Cape,250000,60,2015-03-23,R-016
+C-00270,Vaal Trading Co 129,Wholesale,Independent Cafe,Western Cape,100000,60,2018-09-04,R-002
+C-00271,Ridgeway Foods 54,Wholesale,Hotel Group,Gauteng,250000,60,2015-01-11,R-013
+C-00272,Umhlanga Fresh 305,Wholesale,Independent Cafe,Limpopo,500000,60,2016-01-17,R-016
+C-00273,Karoo Provisions 375,Wholesale,Independent Cafe,Gauteng,250000,60,2022-10-13,R-002
+C-00274,Karoo Provisions 314,Wholesale,Independent Cafe,Gauteng,50000,60,2021-06-25,R-008
+C-00275,Boland Bakery 175,Wholesale,Grocery Chain,Free State,500000,60,2022-05-31,R-001
+C-00276,Boland Bakery 146,Wholesale,Independent Cafe,Gauteng,250000,60,2013-03-22,R-009
+C-00277,Umhlanga Fresh 121,Wholesale,Restaurant Group,Gauteng,50000,60,2020-12-27,R-016
+C-00278,Vaal Trading Co 119,Wholesale,Independent Cafe,Gauteng,500000,60,2013-12-27,R-003
+C-00279,Umhlanga Fresh 288,Wholesale,Independent Cafe,Western Cape,500000,60,2016-08-13,R-018
+C-00280,The Daily Grind 232,Wholesale,Independent Cafe,Western Cape,50000,60,2017-12-27,R-015
+C-00281,Ridgeway Foods 175,Wholesale,Hotel Group,Gauteng,500000,60,2015-04-08,R-008
+C-00282,Roasted Bean Cafe 288,Wholesale,Restaurant Group,Gauteng,50000,60,2019-04-01,R-011
+C-00283,Bloom Coffee House 354,Wholesale,Independent Cafe,Gauteng,100000,60,2014-11-13,R-004
+C-00284,Corner Perk 249,Wholesale,Restaurant Group,Gauteng,500000,60,2018-06-13,R-007
+C-00285,Sunrise Foods 256,Wholesale,Restaurant Group,Western Cape,500000,60,2013-11-27,R-017
+C-00286,The Daily Grind 246,Wholesale,Grocery Chain,Limpopo,500000,60,2014-10-25,R-018
+C-00287,Umhlanga Fresh 136,Wholesale,Independent Cafe,Western Cape,250000,60,2018-11-26,R-014
+C-00288,Roasted Bean Cafe 130,Wholesale,Grocery Chain,KwaZulu-Natal,500000,60,2018-07-07,R-006
+C-00289,The Daily Grind 30,Wholesale,Independent Cafe,Gauteng,100000,60,2022-06-19,R-003
+C-00290,Zebra Cafe 280,Wholesale,Independent Cafe,Limpopo,500000,60,2021-09-13,R-006
+C-00291,The Daily Grind 57,Wholesale,Independent Cafe,Gauteng,50000,60,2022-04-16,R-013
+C-00292,Boland Bakery 1,Wholesale,Independent Cafe,Gauteng,50000,60,2021-10-29,R-003
+C-00293,Umhlanga Fresh 106,Wholesale,Independent Cafe,KwaZulu-Natal,500000,60,2021-06-08,R-004
+C-00294,Highveld Deli 137,Wholesale,Independent Cafe,KwaZulu-Natal,50000,60,2018-12-14,R-013
+C-00295,Vaal Trading Co 57,Wholesale,Independent Cafe,North West,250000,60,2020-06-24,R-007
+C-00296,Cape Point Coffee 161,Wholesale,Grocery Chain,Gauteng,50000,60,2017-02-20,R-015
+C-00297,Umhlanga Fresh 396,Wholesale,Grocery Chain,KwaZulu-Natal,50000,60,2022-05-01,R-003
+C-00298,Kalahari Kitchen 217,Wholesale,Restaurant Group,Eastern Cape,1000000,60,2018-12-23,R-005
+C-00299,Umhlanga Fresh 181,Wholesale,Independent Cafe,Gauteng,50000,60,2021-01-25,R-009
+C-00300,Roasted Bean Cafe 72,Wholesale,Restaurant Group,Limpopo,250000,60,2012-08-14,R-003
+C-00301,The Daily Grind 166,Wholesale,Restaurant Group,Gauteng,500000,60,2020-06-19,R-016
+C-00302,Midrand Market 113,Wholesale,Independent Cafe,Free State,500000,60,2017-01-29,R-002
+C-00303,Highveld Deli 261,Wholesale,Grocery Chain,Western Cape,100000,60,2012-05-19,R-014
+C-00304,The Daily Grind 338,Wholesale,Hotel Group,Free State,100000,60,2014-10-30,R-017
+C-00305,Zebra Cafe 366,Wholesale,Hotel Group,Mpumalanga,50000,60,2022-01-03,R-005
+C-00306,Midrand Market 94,Wholesale,Independent Cafe,Western Cape,100000,60,2016-12-02,R-008
+C-00307,Karoo Provisions 246,Wholesale,Independent Cafe,Gauteng,50000,60,2013-03-15,R-015
+C-00308,Roasted Bean Cafe 167,Wholesale,Restaurant Group,Gauteng,500000,60,2012-06-07,R-002
+C-00309,The Daily Grind 281,Wholesale,Hotel Group,Mpumalanga,250000,60,2011-05-26,R-005
+C-00310,The Daily Grind 272,Wholesale,Hotel Group,Western Cape,100000,60,2012-06-07,R-010
+C-00311,Boland Bakery 72,Wholesale,Independent Cafe,Gauteng,1000000,60,2014-04-08,R-012
+C-00312,Vaal Trading Co 196,Wholesale,Independent Cafe,Limpopo,50000,60,2018-10-01,R-016
+C-00313,Roasted Bean Cafe 286,Wholesale,Independent Cafe,Western Cape,100000,60,2019-10-29,R-004
+C-00314,Umhlanga Fresh 372,Wholesale,Grocery Chain,Gauteng,100000,60,2017-09-16,R-011
+C-00315,Table Bay Foods 249,Wholesale,Grocery Chain,Western Cape,100000,60,2021-03-08,R-016
+C-00316,Karoo Provisions 211,Wholesale,Restaurant Group,North West,100000,60,2020-09-30,R-010
+C-00317,Midrand Market 306,Wholesale,Independent Cafe,Gauteng,100000,60,2017-10-26,R-007
+C-00318,Sunrise Foods 336,Wholesale,Restaurant Group,Gauteng,50000,60,2021-04-26,R-018
+C-00319,Roasted Bean Cafe 123,Wholesale,Independent Cafe,Western Cape,250000,60,2011-12-19,R-013
+C-00320,Umhlanga Fresh 18,Wholesale,Independent Cafe,Gauteng,100000,60,2013-08-11,R-006
+C-00321,Corner Perk 224,Wholesale,Restaurant Group,KwaZulu-Natal,50000,60,2016-06-08,R-012
+C-00322,Zebra Cafe 235,Wholesale,Independent Cafe,Gauteng,250000,60,2016-01-03,R-013
+C-00323,Roasted Bean Cafe 181,Wholesale,Independent Cafe,Western Cape,250000,60,2020-10-16,R-017
+C-00324,Karoo Provisions 21,Wholesale,Grocery Chain,Eastern Cape,250000,60,2019-08-13,R-017
+C-00325,The Daily Grind 107,Wholesale,Independent Cafe,Limpopo,100000,60,2022-05-09,R-002
+C-00326,Roasted Bean Cafe 386,Wholesale,Restaurant Group,Gauteng,250000,60,2017-12-19,R-010
+C-00327,Kalahari Kitchen 390,Wholesale,Restaurant Group,Gauteng,50000,60,2011-01-13,R-004
+C-00328,Boland Bakery 339,Wholesale,Independent Cafe,Western Cape,50000,60,2018-12-03,R-003
+C-00329,Corner Perk 165,Wholesale,Restaurant Group,Mpumalanga,250000,60,2022-01-17,R-012
+C-00330,Roasted Bean Cafe 376,Wholesale,Grocery Chain,Gauteng,100000,60,2018-09-05,R-016
+C-00331,Vaal Trading Co 291,Wholesale,Independent Cafe,Gauteng,100000,60,2019-11-24,R-002
+C-00332,Roasted Bean Cafe 258,Wholesale,Grocery Chain,Gauteng,100000,60,2016-12-17,R-006
+C-00333,Karoo Provisions 249,Wholesale,Independent Cafe,Western Cape,100000,60,2019-09-25,R-003
+C-00334,Corner Perk 222,Wholesale,Independent Cafe,Gauteng,250000,60,2011-12-11,R-006
+C-00335,Vaal Trading Co 256,Wholesale,Independent Cafe,North West,250000,60,2016-09-09,R-009
+C-00336,Highveld Deli 85,Wholesale,Restaurant Group,Free State,50000,60,2023-01-06,R-009
+C-00337,Umhlanga Fresh 14,Wholesale,Hotel Group,Free State,250000,60,2016-01-20,R-013
+C-00338,Roasted Bean Cafe 191,Wholesale,Independent Cafe,KwaZulu-Natal,250000,60,2013-08-26,R-011
+C-00339,Zebra Cafe 224,Wholesale,Grocery Chain,Gauteng,100000,60,2023-02-08,R-005
+C-00340,Table Bay Foods 318,Wholesale,Independent Cafe,Western Cape,500000,60,2013-01-04,R-006
+C-00341,Table Bay Foods 244,Wholesale,Independent Cafe,Eastern Cape,50000,60,2016-12-22,R-010
+C-00342,Vaal Trading Co 387,Wholesale,Hotel Group,Gauteng,500000,60,2020-11-26,R-005
+C-00343,Vaal Trading Co 299,Wholesale,Independent Cafe,Gauteng,50000,60,2021-11-17,R-012
+C-00344,Zebra Cafe 151,Wholesale,Restaurant Group,Gauteng,100000,60,2019-06-15,R-003
+C-00345,Sunrise Foods 179,Wholesale,Independent Cafe,Free State,50000,60,2015-02-05,R-006
+C-00346,Corner Perk 389,Wholesale,Independent Cafe,Western Cape,1000000,60,2012-06-10,R-014
+C-00347,Ridgeway Foods 36,Wholesale,Hotel Group,KwaZulu-Natal,50000,60,2021-10-18,R-013
+C-00348,Table Bay Foods 97,Wholesale,Independent Cafe,Western Cape,500000,60,2019-05-24,R-007
+C-00349,Zebra Cafe 144,Wholesale,Independent Cafe,Western Cape,50000,60,2016-04-30,R-002
+C-00350,Midrand Market 367,Wholesale,Restaurant Group,Western Cape,250000,60,2020-02-12,R-011
+C-00351,Ridgeway Foods 69,Wholesale,Independent Cafe,Western Cape,100000,60,2018-01-20,R-012
+C-00352,Roasted Bean Cafe 119,Wholesale,Independent Cafe,KwaZulu-Natal,1000000,60,2023-02-15,R-015
+C-00353,Highveld Deli 53,Wholesale,Independent Cafe,Western Cape,100000,60,2019-10-28,R-007
+C-00354,Highveld Deli 286,Wholesale,Independent Cafe,Western Cape,50000,60,2013-05-30,R-003
+C-00355,Kalahari Kitchen 307,Wholesale,Hotel Group,Gauteng,100000,60,2022-05-01,R-014
+C-00356,Table Bay Foods 26,Wholesale,Grocery Chain,Western Cape,50000,60,2021-01-08,R-010
+C-00357,Roasted Bean Cafe 115,Wholesale,Restaurant Group,Limpopo,50000,60,2020-06-04,R-018
+C-00358,Karoo Provisions 299,Wholesale,Restaurant Group,Western Cape,50000,60,2014-10-07,R-016
+C-00359,Umhlanga Fresh 5,Wholesale,Restaurant Group,Eastern Cape,500000,60,2022-10-27,R-012
+C-00360,Midrand Market 257,Wholesale,Independent Cafe,Western Cape,500000,60,2021-07-07,R-008
+C-00361,Umhlanga Fresh 209,Wholesale,Independent Cafe,Free State,100000,60,2017-11-23,R-003
+C-00362,Roasted Bean Cafe 367,Wholesale,Grocery Chain,Western Cape,100000,60,2020-03-30,R-008
+C-00363,Bloom Coffee House 334,Wholesale,Independent Cafe,Mpumalanga,100000,60,2018-12-07,R-009
+C-00364,Umhlanga Fresh 48,Wholesale,Grocery Chain,Mpumalanga,500000,60,2014-01-11,R-012
+C-00365,Kalahari Kitchen 17,Wholesale,Hotel Group,Western Cape,50000,60,2017-02-16,R-018
+C-00366,Cape Point Coffee 199,Wholesale,Independent Cafe,Western Cape,100000,60,2019-06-21,R-007
+C-00367,Highveld Deli 289,Wholesale,Independent Cafe,Western Cape,250000,60,2017-05-17,R-016
+C-00368,Bloom Coffee House 395,Wholesale,Restaurant Group,Gauteng,100000,60,2018-11-03,R-005
+C-00369,Vaal Trading Co 35,Wholesale,Restaurant Group,Gauteng,250000,60,2018-04-08,R-018
+C-00370,Bloom Coffee House 223,Wholesale,Independent Cafe,Gauteng,250000,60,2022-07-23,R-004
+C-00371,Sunrise Foods 239,Wholesale,Independent Cafe,Eastern Cape,100000,60,2016-05-07,R-006
+C-00372,Bloom Coffee House 373,Wholesale,Restaurant Group,Western Cape,500000,60,2014-09-28,R-015
+C-00373,The Daily Grind 110,Wholesale,Independent Cafe,Gauteng,250000,60,2012-07-01,R-014
+C-00374,Midrand Market 107,Wholesale,Independent Cafe,Eastern Cape,50000,60,2018-04-18,R-012
+C-00375,The Daily Grind 50,Wholesale,Hotel Group,Free State,100000,60,2022-11-06,R-006
+C-00376,Zebra Cafe 379,Wholesale,Independent Cafe,Gauteng,250000,60,2011-09-13,R-002
+C-00377,Vaal Trading Co 332,Wholesale,Grocery Chain,Western Cape,100000,60,2012-11-09,R-015
+C-00378,Table Bay Foods 298,Wholesale,Independent Cafe,Gauteng,50000,60,2018-09-27,R-017
+C-00379,Midrand Market 357,Wholesale,Independent Cafe,Western Cape,250000,60,2018-04-26,R-005
+C-00380,Boland Bakery 286,Wholesale,Independent Cafe,Western Cape,250000,60,2017-07-25,R-012
+C-00381,Sunrise Foods 91,Wholesale,Independent Cafe,Western Cape,100000,60,2022-09-12,R-016
+C-00382,Sunrise Foods 196,Wholesale,Independent Cafe,Western Cape,250000,60,2022-02-24,R-004
+C-00383,Karoo Provisions 260,Wholesale,Independent Cafe,Western Cape,250000,60,2015-04-23,R-012
+C-00384,Bloom Coffee House 399,Wholesale,Hotel Group,Western Cape,50000,60,2022-02-01,R-005
+C-00385,Highveld Deli 356,Wholesale,Restaurant Group,Western Cape,100000,60,2014-05-07,R-017
+C-00386,Boland Bakery 192,Wholesale,Grocery Chain,Western Cape,50000,60,2016-11-04,R-002
+C-00387,Boland Bakery 217,Wholesale,Restaurant Group,Gauteng,50000,60,2021-06-20,R-017
+C-00388,Umhlanga Fresh 277,Wholesale,Restaurant Group,KwaZulu-Natal,50000,60,2019-07-19,R-003
+C-00389,Roasted Bean Cafe 273,Wholesale,Restaurant Group,Eastern Cape,100000,60,2014-07-27,R-013
+C-00390,Zebra Cafe 325,Wholesale,Independent Cafe,KwaZulu-Natal,500000,60,2013-12-17,R-018
+C-00391,Table Bay Foods 373,Wholesale,Independent Cafe,Gauteng,100000,60,2014-11-26,R-008
+C-00392,Bloom Coffee House 296,Wholesale,Independent Cafe,Mpumalanga,50000,60,2016-04-19,R-006
+C-00393,Sunrise Foods 189,Wholesale,Restaurant Group,Western Cape,100000,60,2013-06-20,R-018
+C-00394,Vaal Trading Co 171,Wholesale,Independent Cafe,Limpopo,100000,60,2017-06-20,R-016
+C-00395,Cape Point Coffee 200,Wholesale,Restaurant Group,Western Cape,50000,60,2014-09-06,R-004
+C-00396,Bloom Coffee House 155,Wholesale,Restaurant Group,KwaZulu-Natal,50000,60,2018-02-25,R-013
+C-00397,Kalahari Kitchen 74,Wholesale,Hotel Group,Western Cape,250000,60,2017-10-27,R-010
+C-00398,The Daily Grind 30,Wholesale,Independent Cafe,Western Cape,100000,60,2022-07-11,R-003
+C-00399,The Daily Grind 379,Wholesale,Independent Cafe,Gauteng,250000,60,2020-01-25,R-006
+C-00400,Roasted Bean Cafe 313,Wholesale,Independent Cafe,Eastern Cape,100000,60,2016-06-28,R-005
+C-00401,Boland Bakery 242,Wholesale,Independent Cafe,KwaZulu-Natal,50000,60,2013-10-09,R-001
+C-00402,Roasted Bean Cafe 282,Wholesale,Grocery Chain,Limpopo,250000,60,2019-06-19,R-005
+C-00403,Table Bay Foods 195,Wholesale,Hotel Group,Western Cape,1000000,60,2019-02-11,R-018
+C-00404,Vaal Trading Co 292,Wholesale,Independent Cafe,Gauteng,100000,60,2012-07-06,R-003
+C-00405,Sunrise Foods 14,Wholesale,Independent Cafe,Western Cape,50000,60,2019-03-10,R-018
+C-00406,Table Bay Foods 91,Wholesale,Hotel Group,North West,250000,60,2012-12-03,R-016
+C-00407,Highveld Deli 281,Wholesale,Hotel Group,North West,50000,60,2014-05-22,R-014
+C-00408,Table Bay Foods 123,Wholesale,Grocery Chain,Western Cape,50000,60,2022-12-18,R-012
+C-00409,Boland Bakery 288,Wholesale,Independent Cafe,Mpumalanga,100000,60,2021-07-13,R-018
+C-00410,Kalahari Kitchen 287,Wholesale,Independent Cafe,Western Cape,250000,60,2023-01-21,R-006
+C-00411,Umhlanga Fresh 59,Wholesale,Independent Cafe,Eastern Cape,250000,60,2011-07-28,R-013
+C-00412,Karoo Provisions 152,Wholesale,Independent Cafe,Western Cape,250000,60,2022-07-19,R-001
+C-00413,Ridgeway Foods 193,Wholesale,Grocery Chain,Gauteng,100000,60,2013-10-27,R-009
+C-00414,Corner Perk 206,Wholesale,Restaurant Group,Mpumalanga,50000,60,2015-09-03,R-001
+C-00415,Midrand Market 2,Wholesale,Independent Cafe,Gauteng,50000,60,2011-05-01,R-005
+C-00416,Corner Perk 122,Wholesale,Hotel Group,Gauteng,50000,60,2021-01-25,R-012
+C-00417,Boland Bakery 208,Wholesale,Grocery Chain,Gauteng,250000,60,2012-08-30,R-014
+C-00418,Roasted Bean Cafe 78,Wholesale,Restaurant Group,KwaZulu-Natal,100000,60,2011-11-18,R-018
+C-00419,Boland Bakery 196,Wholesale,Independent Cafe,Gauteng,100000,60,2014-08-26,R-009
+C-00420,Corner Perk 34,Wholesale,Independent Cafe,Limpopo,50000,60,2014-03-08,R-013
+C-00421,Kalahari Kitchen 360,Wholesale,Independent Cafe,Mpumalanga,50000,60,2020-02-12,R-005
+C-00422,Umhlanga Fresh 84,Wholesale,Independent Cafe,Gauteng,50000,60,2017-12-23,R-014
+C-00423,Kalahari Kitchen 369,Wholesale,Restaurant Group,Free State,250000,60,2017-08-25,R-001
+C-00424,Sunrise Foods 119,Wholesale,Independent Cafe,North West,50000,60,2016-08-13,R-007
+C-00425,Boland Bakery 91,Wholesale,Independent Cafe,Free State,50000,60,2022-07-17,R-003
+C-00426,Bloom Coffee House 278,Wholesale,Restaurant Group,Gauteng,250000,60,2022-03-18,R-005
+C-00427,Umhlanga Fresh 309,Wholesale,Independent Cafe,Gauteng,100000,60,2012-11-10,R-013
+C-00428,Bloom Coffee House 14,Wholesale,Independent Cafe,KwaZulu-Natal,50000,60,2015-09-15,R-009
+C-00429,Table Bay Foods 337,Wholesale,Restaurant Group,Free State,250000,60,2020-12-29,R-005
+C-00430,Highveld Deli 272,Wholesale,Hotel Group,Gauteng,100000,60,2011-09-22,R-010
+C-00431,Karoo Provisions 356,Wholesale,Independent Cafe,Gauteng,100000,60,2021-08-10,R-015
+C-00432,Zebra Cafe 184,Wholesale,Restaurant Group,Western Cape,250000,60,2017-06-18,R-009
+C-00433,Bloom Coffee House 149,Wholesale,Restaurant Group,Gauteng,50000,60,2017-09-23,R-015
+C-00434,Corner Perk 177,Wholesale,Independent Cafe,KwaZulu-Natal,100000,60,2011-10-30,R-014
+C-00435,Karoo Provisions 100,Wholesale,Independent Cafe,Gauteng,50000,60,2013-09-26,R-012
+C-00436,Corner Perk 259,Wholesale,Independent Cafe,Western Cape,100000,60,2011-11-26,R-016
+C-00437,Ridgeway Foods 116,Wholesale,Independent Cafe,Gauteng,250000,60,2016-04-20,R-006
+C-00438,The Daily Grind 82,Wholesale,Restaurant Group,KwaZulu-Natal,250000,60,2016-11-03,R-018
+C-00439,Umhlanga Fresh 108,Wholesale,Restaurant Group,Gauteng,250000,60,2017-04-18,R-011
+C-00440,Kalahari Kitchen 159,Wholesale,Restaurant Group,Eastern Cape,250000,60,2014-01-01,R-003
+C-00441,Sunrise Foods 81,Wholesale,Grocery Chain,Gauteng,50000,60,2017-11-30,R-018
+C-00442,Corner Perk 325,Wholesale,Grocery Chain,North West,50000,60,2014-04-18,R-001
+C-00443,Boland Bakery 20,Wholesale,Grocery Chain,Gauteng,100000,60,2017-06-17,R-009
+C-00444,Table Bay Foods 310,Wholesale,Restaurant Group,KwaZulu-Natal,500000,60,2022-02-22,R-008
+C-00445,Cape Point Coffee 57,Wholesale,Independent Cafe,Western Cape,250000,60,2014-04-19,R-001
+C-00446,Corner Perk 65,Wholesale,Independent Cafe,Gauteng,250000,60,2023-02-16,R-007
+C-00447,Bloom Coffee House 271,Wholesale,Restaurant Group,Western Cape,50000,60,2013-07-14,R-007
+C-00448,Corner Perk 187,Wholesale,Grocery Chain,KwaZulu-Natal,250000,60,2017-11-06,R-018
+C-00449,Cape Point Coffee 195,Wholesale,Independent Cafe,Western Cape,50000,60,2021-12-17,R-008
+C-00450,Zebra Cafe 358,Wholesale,Independent Cafe,Gauteng,100000,60,2016-06-30,R-004
+C-00451,Midrand Market 398,Wholesale,Restaurant Group,Gauteng,250000,60,2013-06-11,R-018
+C-00452,Ridgeway Foods 388,Wholesale,Independent Cafe,Limpopo,500000,60,2014-04-20,R-007
+C-00453,Corner Perk 284,Wholesale,Hotel Group,Gauteng,100000,60,2015-11-16,R-017
+C-00454,Vaal Trading Co 396,Wholesale,Grocery Chain,Gauteng,250000,60,2011-06-01,R-012
+C-00455,Roasted Bean Cafe 41,Wholesale,Hotel Group,Western Cape,50000,60,2012-02-12,R-006
+C-00456,Vaal Trading Co 26,Wholesale,Restaurant Group,Eastern Cape,50000,60,2016-10-13,R-005
+C-00457,Corner Perk 310,Wholesale,Independent Cafe,Mpumalanga,250000,60,2016-09-30,R-013
+C-00458,Sunrise Foods 188,Wholesale,Independent Cafe,Gauteng,100000,60,2013-07-20,R-010
+C-00459,Roasted Bean Cafe 51,Wholesale,Restaurant Group,Limpopo,500000,60,2020-01-05,R-015
+C-00460,Corner Perk 337,Wholesale,Restaurant Group,Gauteng,250000,60,2020-01-25,R-004
+C-00461,Kalahari Kitchen 261,Wholesale,Restaurant Group,KwaZulu-Natal,500000,60,2020-04-23,R-017
+C-00462,Roasted Bean Cafe 48,Wholesale,Independent Cafe,Free State,250000,60,2019-05-22,R-014
+C-00463,Boland Bakery 239,Wholesale,Restaurant Group,Eastern Cape,500000,60,2019-12-17,R-006
+C-00464,Boland Bakery 351,Wholesale,Independent Cafe,Gauteng,50000,60,2019-02-21,R-002
+C-00465,Highveld Deli 28,Wholesale,Independent Cafe,Gauteng,100000,60,2019-11-01,R-002
+C-00466,Karoo Provisions 124,Wholesale,Independent Cafe,Free State,50000,60,2012-05-19,R-009
+C-00467,Ridgeway Foods 330,Wholesale,Independent Cafe,Gauteng,50000,60,2022-07-09,R-016
+C-00468,Table Bay Foods 213,Wholesale,Hotel Group,KwaZulu-Natal,50000,60,2020-06-09,R-001
+C-00469,Zebra Cafe 382,Wholesale,Independent Cafe,Free State,50000,60,2022-01-10,R-002
+C-00470,Roasted Bean Cafe 169,Wholesale,Independent Cafe,Gauteng,250000,60,2014-12-18,R-008
+C-00471,Umhlanga Fresh 305,Wholesale,Grocery Chain,Gauteng,250000,60,2022-09-24,R-003
+C-00472,Umhlanga Fresh 145,Wholesale,Independent Cafe,Eastern Cape,250000,60,2017-07-23,R-015
+C-00473,Kalahari Kitchen 180,Wholesale,Grocery Chain,Western Cape,50000,60,2018-01-30,R-011
+C-00474,The Daily Grind 146,Wholesale,Restaurant Group,Gauteng,500000,60,2014-06-09,R-005
+C-00475,Cape Point Coffee 221,Wholesale,Grocery Chain,Free State,50000,60,2013-08-07,R-002
+C-00476,Corner Perk 248,Wholesale,Hotel Group,KwaZulu-Natal,100000,60,2011-12-01,R-003
+C-00477,Corner Perk 183,Wholesale,Restaurant Group,Gauteng,50000,60,2016-02-02,R-016
+C-00478,Midrand Market 99,Wholesale,Grocery Chain,Western Cape,50000,60,2015-01-13,R-005
+C-00479,Boland Bakery 80,Wholesale,Independent Cafe,KwaZulu-Natal,100000,60,2014-08-02,R-005
+C-00480,The Daily Grind 272,Wholesale,Independent Cafe,Mpumalanga,100000,60,2011-11-27,R-001
+C-00481,Karoo Provisions 231,Wholesale,Independent Cafe,Western Cape,250000,60,2016-04-18,R-010
+C-00482,Table Bay Foods 59,Wholesale,Grocery Chain,Gauteng,250000,60,2019-12-02,R-015
+C-00483,Vaal Trading Co 275,Wholesale,Independent Cafe,KwaZulu-Natal,250000,60,2022-11-21,R-013
+C-00484,Highveld Deli 109,Wholesale,Independent Cafe,KwaZulu-Natal,50000,60,2015-12-31,R-009
+C-00485,Table Bay Foods 99,Wholesale,Independent Cafe,Gauteng,100000,60,2015-11-19,R-015
+C-00486,The Daily Grind 385,Wholesale,Restaurant Group,Western Cape,500000,60,2011-07-06,R-008
+C-00487,Zebra Cafe 320,Wholesale,Restaurant Group,Limpopo,50000,60,2020-10-16,R-018
+C-00488,The Daily Grind 325,Wholesale,Independent Cafe,Gauteng,100000,60,2013-03-11,R-012
+C-00489,Zebra Cafe 201,Wholesale,Grocery Chain,Free State,100000,60,2016-04-03,R-009
+C-00490,Bloom Coffee House 389,Wholesale,Grocery Chain,KwaZulu-Natal,1000000,60,2013-05-02,R-006
+C-00491,Karoo Provisions 1,Wholesale,Restaurant Group,Western Cape,50000,60,2016-01-09,R-001
+C-00492,Ridgeway Foods 309,Wholesale,Independent Cafe,Free State,250000,60,2023-03-06,R-005
+C-00493,Highveld Deli 299,Wholesale,Independent Cafe,Gauteng,250000,60,2022-07-26,R-013
+C-00494,Cape Point Coffee 351,Wholesale,Independent Cafe,Western Cape,50000,60,2015-01-25,R-004
+C-00495,The Daily Grind 207,Wholesale,Restaurant Group,Gauteng,250000,60,2011-12-27,R-010
+C-00496,Bloom Coffee House 208,Wholesale,Grocery Chain,Limpopo,100000,60,2022-06-08,R-011
+C-00497,Sunrise Foods 39,Wholesale,Restaurant Group,Limpopo,100000,60,2018-04-07,R-001
+C-00498,Table Bay Foods 14,Wholesale,Independent Cafe,Western Cape,100000,60,2013-12-02,R-006
+C-00499,Highveld Deli 268,Wholesale,Grocery Chain,KwaZulu-Natal,50000,60,2017-11-23,R-008
+C-00500,Ridgeway Foods 201,Wholesale,Hotel Group,Gauteng,500000,60,2012-07-07,R-014
+C-00501,The Daily Grind 268,Wholesale,Grocery Chain,KwaZulu-Natal,500000,60,2014-11-27,R-007
+C-00502,Table Bay Foods 382,Wholesale,Restaurant Group,Gauteng,100000,60,2011-07-12,R-015
+C-00503,Midrand Market 4,Wholesale,Independent Cafe,Gauteng,250000,60,2015-03-27,R-014
+C-00504,Highveld Deli 306,Wholesale,Restaurant Group,Western Cape,50000,60,2011-08-27,R-004
+C-00505,Corner Perk 319,Wholesale,Hotel Group,North West,250000,60,2020-04-24,R-006
+C-00506,Kalahari Kitchen 5,Wholesale,Independent Cafe,Gauteng,500000,60,2016-03-19,R-007
+C-00507,Sunrise Foods 176,Wholesale,Restaurant Group,Gauteng,500000,60,2022-05-27,R-018
+C-00508,Umhlanga Fresh 91,Wholesale,Hotel Group,Gauteng,50000,60,2020-12-16,R-003
+C-00509,Kalahari Kitchen 178,Wholesale,Hotel Group,Gauteng,250000,60,2017-10-10,R-003
+C-00510,Boland Bakery 286,Wholesale,Grocery Chain,Free State,250000,60,2019-03-20,R-009
+C-00511,Boland Bakery 201,Wholesale,Hotel Group,Eastern Cape,50000,60,2018-06-14,R-016
+C-00512,Midrand Market 43,Wholesale,Independent Cafe,Western Cape,1000000,60,2017-11-24,R-001
+C-00513,The Daily Grind 296,Wholesale,Restaurant Group,Eastern Cape,500000,60,2018-11-10,R-006
+C-00514,Sunrise Foods 339,Wholesale,Hotel Group,Gauteng,100000,60,2017-05-10,R-004
+C-00515,Umhlanga Fresh 137,Wholesale,Restaurant Group,North West,100000,60,2011-09-11,R-015
+C-00516,Ridgeway Foods 127,Wholesale,Restaurant Group,KwaZulu-Natal,500000,60,2011-11-25,R-017
+C-00517,Karoo Provisions 262,Wholesale,Grocery Chain,Gauteng,250000,60,2016-08-02,R-014
+C-00518,Corner Perk 395,Wholesale,Independent Cafe,Western Cape,500000,60,2021-10-20,R-012
+C-00519,The Daily Grind 86,Wholesale,Hotel Group,KwaZulu-Natal,100000,60,2013-05-03,R-017
+C-00520,Table Bay Foods 261,Wholesale,Independent Cafe,Gauteng,250000,60,2019-12-12,R-006
+C-00521,Table Bay Foods 341,Wholesale,Independent Cafe,Free State,50000,60,2012-11-01,R-003
+C-00522,The Daily Grind 396,Wholesale,Independent Cafe,Western Cape,250000,60,2015-05-23,R-004
+C-00523,Table Bay Foods 171,Wholesale,Independent Cafe,Eastern Cape,250000,60,2022-10-25,R-015
+C-00524,Table Bay Foods 14,Wholesale,Independent Cafe,Free State,100000,60,2016-11-16,R-010
+C-00525,Highveld Deli 356,Wholesale,Independent Cafe,Gauteng,1000000,60,2018-08-28,R-012
+C-00526,Umhlanga Fresh 56,Wholesale,Independent Cafe,Mpumalanga,50000,60,2011-10-02,R-005
+C-00527,Cape Point Coffee 344,Wholesale,Restaurant Group,Limpopo,100000,60,2019-08-25,R-015
+C-00528,Cape Point Coffee 134,Wholesale,Restaurant Group,KwaZulu-Natal,100000,60,2015-03-10,R-005
+C-00529,Bloom Coffee House 63,Wholesale,Grocery Chain,Gauteng,250000,60,2021-02-22,R-001
+C-00530,Table Bay Foods 249,Wholesale,Hotel Group,KwaZulu-Natal,50000,60,2022-11-19,R-009
+C-00531,Corner Perk 118,Wholesale,Grocery Chain,Gauteng,250000,60,2017-05-26,R-008
+C-00532,Vaal Trading Co 394,Wholesale,Hotel Group,Western Cape,100000,60,2016-05-24,R-003
+C-00533,Karoo Provisions 69,Wholesale,Independent Cafe,Gauteng,500000,60,2011-10-26,R-005
+C-00534,Sunrise Foods 169,Wholesale,Restaurant Group,Gauteng,100000,60,2012-04-25,R-015
+C-00535,Vaal Trading Co 143,Wholesale,Grocery Chain,Western Cape,500000,60,2015-03-08,R-002
+C-00536,The Daily Grind 175,Wholesale,Grocery Chain,Western Cape,100000,60,2016-01-09,R-018
+C-00537,Corner Perk 225,Wholesale,Restaurant Group,KwaZulu-Natal,100000,60,2011-10-21,R-018
+C-00538,Table Bay Foods 291,Wholesale,Independent Cafe,Gauteng,50000,60,2012-09-24,R-011
+C-00539,Roasted Bean Cafe 228,Wholesale,Independent Cafe,KwaZulu-Natal,50000,60,2022-05-01,R-002
+C-00540,Table Bay Foods 173,Wholesale,Hotel Group,Free State,50000,60,2016-03-24,R-012
+C-00541,Roasted Bean Cafe 379,Wholesale,Independent Cafe,Gauteng,100000,60,2014-11-06,R-005
+C-00542,Karoo Provisions 165,Wholesale,Restaurant Group,Free State,50000,60,2017-11-18,R-013
+C-00543,Cape Point Coffee 11,Wholesale,Restaurant Group,KwaZulu-Natal,50000,60,2016-05-26,R-009
+C-00544,Corner Perk 32,Wholesale,Grocery Chain,Mpumalanga,50000,60,2015-11-09,R-012
+C-00545,Table Bay Foods 383,Wholesale,Independent Cafe,Gauteng,50000,60,2015-01-03,R-012
+C-00546,Cape Point Coffee 282,Wholesale,Restaurant Group,Limpopo,50000,60,2021-12-19,R-003
+C-00547,Bloom Coffee House 262,Wholesale,Independent Cafe,Western Cape,100000,60,2013-05-04,R-011
+C-00548,Bloom Coffee House 320,Wholesale,Hotel Group,Gauteng,50000,60,2017-04-08,R-001
+C-00549,Zebra Cafe 76,Wholesale,Independent Cafe,Western Cape,50000,60,2013-11-13,R-018
+C-00550,Boland Bakery 274,Wholesale,Independent Cafe,Western Cape,1000000,60,2012-07-26,R-009
+C-00551,Highveld Deli 144,Wholesale,Restaurant Group,Gauteng,100000,60,2016-02-03,R-018
+C-00552,Corner Perk 24,Wholesale,Restaurant Group,Free State,100000,60,2018-03-24,R-012
+C-00553,Bloom Coffee House 243,Wholesale,Restaurant Group,Mpumalanga,1000000,60,2014-03-27,R-008
+C-00554,Bloom Coffee House 226,Wholesale,Independent Cafe,Limpopo,100000,60,2019-10-08,R-018
+C-00555,Kalahari Kitchen 42,Wholesale,Independent Cafe,Gauteng,250000,60,2013-06-24,R-013
+C-00556,Kalahari Kitchen 296,Wholesale,Grocery Chain,Eastern Cape,100000,60,2018-11-23,R-010
+C-00557,Zebra Cafe 99,Wholesale,Independent Cafe,Gauteng,250000,60,2014-09-05,R-012
+C-00558,Sunrise Foods 28,Wholesale,Independent Cafe,Western Cape,250000,60,2018-04-09,R-005
+C-00559,Ridgeway Foods 379,Wholesale,Grocery Chain,KwaZulu-Natal,500000,60,2013-01-11,R-017
+C-00560,Vaal Trading Co 191,Wholesale,Independent Cafe,Limpopo,500000,60,2018-05-11,R-018
+C-00561,Table Bay Foods 204,Wholesale,Independent Cafe,Western Cape,250000,60,2015-08-31,R-018
+C-00562,Umhlanga Fresh 138,Wholesale,Grocery Chain,Western Cape,250000,60,2016-01-02,R-016
+C-00563,Sunrise Foods 23,Wholesale,Grocery Chain,KwaZulu-Natal,250000,60,2015-10-10,R-006
+C-00564,Bloom Coffee House 253,Wholesale,Independent Cafe,KwaZulu-Natal,50000,60,2022-09-26,R-015
+C-00565,Umhlanga Fresh 310,Wholesale,Hotel Group,KwaZulu-Natal,500000,60,2014-12-11,R-003
+C-00566,Bloom Coffee House 384,Wholesale,Independent Cafe,Gauteng,500000,60,2011-04-06,R-004
+C-00567,Umhlanga Fresh 6,Wholesale,Restaurant Group,KwaZulu-Natal,100000,60,2021-04-26,R-002
+C-00568,The Daily Grind 37,Wholesale,Independent Cafe,Free State,50000,60,2019-01-14,R-012
+C-00569,Karoo Provisions 77,Wholesale,Independent Cafe,Gauteng,500000,60,2020-08-06,R-011
+C-00570,Boland Bakery 94,Wholesale,Hotel Group,Free State,250000,60,2016-04-08,R-013
+C-00571,Zebra Cafe 85,Wholesale,Independent Cafe,Gauteng,100000,60,2022-06-27,R-011
+C-00572,Corner Perk 193,Wholesale,Restaurant Group,Gauteng,500000,60,2019-05-06,R-009
+C-00573,Karoo Provisions 299,Wholesale,Restaurant Group,Gauteng,100000,60,2014-05-10,R-007
+C-00574,Zebra Cafe 206,Wholesale,Independent Cafe,Western Cape,500000,60,2015-09-10,R-003
+C-00575,Highveld Deli 344,Wholesale,Independent Cafe,Western Cape,50000,60,2014-06-21,R-004
+C-00576,Karoo Provisions 150,Wholesale,Restaurant Group,Gauteng,500000,60,2022-12-27,R-006
+C-00577,Umhlanga Fresh 195,Wholesale,Independent Cafe,Western Cape,100000,60,2018-10-21,R-014
+C-00578,Cape Point Coffee 327,Wholesale,Grocery Chain,Mpumalanga,100000,60,2022-04-04,R-006
+C-00579,Midrand Market 287,Wholesale,Restaurant Group,Western Cape,500000,60,2015-10-29,R-003
+C-00580,Boland Bakery 129,Wholesale,Restaurant Group,Limpopo,250000,60,2016-07-12,R-012
+C-00581,Kalahari Kitchen 20,Wholesale,Restaurant Group,Limpopo,50000,60,2014-01-22,R-005
+C-00582,Kalahari Kitchen 337,Wholesale,Independent Cafe,Gauteng,50000,60,2015-12-27,R-004
+C-00583,Highveld Deli 252,Wholesale,Hotel Group,KwaZulu-Natal,500000,60,2016-05-30,R-011
+C-00584,Bloom Coffee House 99,Wholesale,Grocery Chain,Gauteng,500000,60,2018-02-11,R-013
+C-00585,Table Bay Foods 173,Wholesale,Hotel Group,Western Cape,1000000,60,2014-12-20,R-015
+C-00586,Corner Perk 330,Wholesale,Restaurant Group,Limpopo,50000,60,2021-09-08,R-016
+C-00587,The Daily Grind 158,Wholesale,Restaurant Group,Eastern Cape,50000,60,2019-08-24,R-002
+C-00588,Kalahari Kitchen 186,Wholesale,Restaurant Group,KwaZulu-Natal,50000,60,2015-03-15,R-011
+C-00589,Cape Point Coffee 308,Wholesale,Grocery Chain,Gauteng,250000,60,2012-04-14,R-015
+C-00590,Zebra Cafe 70,Wholesale,Restaurant Group,Gauteng,50000,60,2015-09-19,R-005
+C-00591,Cape Point Coffee 64,Wholesale,Hotel Group,KwaZulu-Natal,100000,60,2015-08-10,R-010
+C-00592,Corner Perk 240,Wholesale,Independent Cafe,Limpopo,500000,60,2016-10-30,R-017
+C-00593,Table Bay Foods 280,Wholesale,Independent Cafe,KwaZulu-Natal,50000,60,2017-09-22,R-016
+C-00594,Midrand Market 385,Wholesale,Hotel Group,Eastern Cape,1000000,60,2017-06-28,R-011
+C-00595,Kalahari Kitchen 239,Wholesale,Grocery Chain,Gauteng,50000,60,2018-07-12,R-013
+C-00596,Zebra Cafe 359,Wholesale,Hotel Group,Gauteng,250000,60,2015-03-15,R-001
+C-00597,Kalahari Kitchen 348,Wholesale,Independent Cafe,KwaZulu-Natal,500000,60,2018-01-06,R-011
+C-00598,Vaal Trading Co 334,Wholesale,Grocery Chain,Gauteng,100000,60,2015-06-20,R-007
+C-00599,Roasted Bean Cafe 327,Wholesale,Independent Cafe,Gauteng,250000,60,2013-09-18,R-014
+C-00600,Corner Perk 219,Wholesale,Independent Cafe,Gauteng,500000,60,2020-10-31,R-017
+C-00601,Karoo Provisions 676,Subscription,Corporate Office,Gauteng,50000,30,2021-04-22,R-007
+C-00602,Boland Bakery 468,Subscription,Small Business,Gauteng,25000,30,2020-05-03,R-015
+C-00603,Bloom Coffee House 539,Subscription,Corporate Office,Gauteng,25000,30,2022-03-26,R-004
+C-00604,Kalahari Kitchen 631,Subscription,Corporate Office,Mpumalanga,25000,30,2020-03-04,R-016
+C-00605,The Daily Grind 840,Subscription,Medical Practice,KwaZulu-Natal,25000,30,2017-09-05,R-009
+C-00606,Table Bay Foods 740,Subscription,Small Business,Eastern Cape,50000,30,2020-09-05,R-011
+C-00607,Karoo Provisions 390,Subscription,Small Business,Free State,50000,30,2019-01-23,R-002
+C-00608,Ridgeway Foods 784,Subscription,Corporate Office,Western Cape,100000,30,2016-11-18,R-009
+C-00609,Zebra Cafe 378,Subscription,Small Business,Gauteng,100000,30,2019-10-18,R-010
+C-00610,Zebra Cafe 381,Subscription,Co-working Space,KwaZulu-Natal,50000,30,2021-06-29,R-010
+C-00611,Table Bay Foods 744,Subscription,Medical Practice,Western Cape,25000,30,2015-03-04,R-017
+C-00612,Ridgeway Foods 87,Subscription,Small Business,Gauteng,50000,30,2022-07-04,R-016
+C-00613,Cape Point Coffee 809,Subscription,Medical Practice,Limpopo,25000,30,2019-03-17,R-009
+C-00614,Kalahari Kitchen 297,Subscription,Corporate Office,Gauteng,25000,30,2020-02-17,R-001
+C-00615,Kalahari Kitchen 38,Subscription,Small Business,KwaZulu-Natal,50000,30,2017-11-04,R-018
+C-00616,Highveld Deli 533,Subscription,Corporate Office,Gauteng,50000,30,2019-04-01,R-012
+C-00617,Highveld Deli 8,Subscription,Medical Practice,Eastern Cape,100000,30,2018-02-25,R-010
+C-00618,Table Bay Foods 656,Subscription,Corporate Office,Western Cape,25000,30,2024-04-11,R-018
+C-00619,Corner Perk 306,Subscription,Medical Practice,Gauteng,50000,30,2020-04-13,R-003
+C-00620,The Daily Grind 452,Subscription,Medical Practice,KwaZulu-Natal,25000,30,2017-07-16,R-008
+C-00621,Highveld Deli 471,Subscription,Small Business,Gauteng,50000,30,2015-03-05,R-009
+C-00622,Vaal Trading Co 789,Subscription,Medical Practice,Gauteng,50000,30,2020-10-16,R-006
+C-00623,Table Bay Foods 31,Subscription,Small Business,Western Cape,50000,30,2023-07-08,R-009
+C-00624,Roasted Bean Cafe 703,Subscription,Corporate Office,Western Cape,100000,30,2018-11-24,R-001
+C-00625,The Daily Grind 709,Subscription,Corporate Office,Western Cape,100000,30,2018-03-03,R-009
+C-00626,Cape Point Coffee 416,Subscription,Small Business,KwaZulu-Natal,100000,30,2021-06-03,R-018
+C-00627,Vaal Trading Co 503,Subscription,Small Business,Mpumalanga,50000,30,2021-04-25,R-009
+C-00628,Zebra Cafe 422,Subscription,Small Business,Gauteng,25000,30,2018-12-11,R-002
+C-00629,Vaal Trading Co 437,Subscription,Corporate Office,Western Cape,25000,30,2023-04-04,R-006
+C-00630,Cape Point Coffee 303,Subscription,Corporate Office,Gauteng,25000,30,2019-12-05,R-003
+C-00631,Roasted Bean Cafe 729,Subscription,Corporate Office,Eastern Cape,50000,30,2021-05-26,R-015
+C-00632,Kalahari Kitchen 788,Subscription,Small Business,Western Cape,25000,30,2018-04-15,R-011
+C-00633,Bloom Coffee House 211,Subscription,Medical Practice,Mpumalanga,25000,30,2024-02-05,R-013
+C-00634,Umhlanga Fresh 266,Subscription,Co-working Space,Free State,100000,30,2022-06-03,R-009
+C-00635,Cape Point Coffee 428,Subscription,Small Business,KwaZulu-Natal,100000,30,2017-05-25,R-009
+C-00636,Ridgeway Foods 400,Subscription,Co-working Space,Western Cape,50000,30,2021-01-26,R-017
+C-00637,The Daily Grind 703,Subscription,Corporate Office,Western Cape,25000,30,2016-02-23,R-008
+C-00638,Kalahari Kitchen 849,Subscription,Medical Practice,Mpumalanga,25000,30,2021-10-27,R-012
+C-00639,Cape Point Coffee 793,Subscription,Corporate Office,Gauteng,100000,30,2015-05-21,R-011
+C-00640,Table Bay Foods 865,Subscription,Medical Practice,Western Cape,50000,30,2018-01-09,R-003
+C-00641,The Daily Grind 224,Subscription,Corporate Office,Gauteng,50000,30,2016-06-18,R-018
+C-00642,Table Bay Foods 513,Subscription,Corporate Office,Limpopo,50000,30,2023-11-21,R-016
+C-00643,Roasted Bean Cafe 401,Subscription,Small Business,Western Cape,25000,30,2022-03-09,R-006
+C-00644,Cape Point Coffee 164,Subscription,Medical Practice,Limpopo,25000,30,2020-01-31,R-006
+C-00645,Zebra Cafe 861,Subscription,Corporate Office,Gauteng,25000,30,2017-11-04,R-015
+C-00646,Roasted Bean Cafe 648,Subscription,Small Business,Western Cape,25000,30,2021-11-23,R-016
+C-00647,Zebra Cafe 658,Subscription,Medical Practice,Western Cape,50000,30,2019-12-19,R-017
+C-00648,Corner Perk 855,Subscription,Small Business,KwaZulu-Natal,50000,30,2018-08-22,R-008
+C-00649,Karoo Provisions 166,Subscription,Corporate Office,Gauteng,25000,30,2023-11-07,R-004
+C-00650,Kalahari Kitchen 475,Subscription,Small Business,Gauteng,25000,30,2022-01-27,R-004
+C-00651,Umhlanga Fresh 677,Subscription,Corporate Office,Gauteng,50000,30,2018-09-29,R-015
+C-00652,Kalahari Kitchen 640,Subscription,Corporate Office,Eastern Cape,50000,30,2015-04-01,R-008
+C-00653,Vaal Trading Co 122,Subscription,Corporate Office,Gauteng,50000,30,2020-09-11,R-016
+C-00654,Highveld Deli 671,Subscription,Co-working Space,Mpumalanga,100000,30,2019-08-25,R-011
+C-00655,Zebra Cafe 211,Subscription,Corporate Office,Western Cape,25000,30,2019-01-10,R-008
+C-00656,Cape Point Coffee 624,Subscription,Small Business,Gauteng,50000,30,2021-11-08,R-002
+C-00657,Corner Perk 247,Subscription,Corporate Office,Western Cape,100000,30,2019-02-12,R-004
+C-00658,Kalahari Kitchen 431,Subscription,Corporate Office,KwaZulu-Natal,100000,30,2020-04-06,R-002
+C-00659,Sunrise Foods 346,Subscription,Corporate Office,Limpopo,25000,30,2020-03-27,R-007
+C-00660,Highveld Deli 275,Subscription,Medical Practice,KwaZulu-Natal,25000,30,2024-09-21,R-014
+C-00661,Ridgeway Foods 717,Subscription,Small Business,Limpopo,100000,30,2016-04-07,R-008
+C-00662,Corner Perk 758,Subscription,Corporate Office,Gauteng,50000,30,2016-02-13,R-012
+C-00663,Sunrise Foods 777,Subscription,Co-working Space,Gauteng,25000,30,2016-02-02,R-003
+C-00664,Highveld Deli 889,Subscription,Corporate Office,Western Cape,25000,30,2015-05-13,R-009
+C-00665,The Daily Grind 554,Subscription,Corporate Office,Western Cape,25000,30,2021-11-18,R-010
+C-00666,Boland Bakery 155,Subscription,Small Business,KwaZulu-Natal,50000,30,2022-11-16,R-017
+C-00667,The Daily Grind 63,Subscription,Corporate Office,Western Cape,25000,30,2018-03-29,R-003
+C-00668,Table Bay Foods 635,Subscription,Corporate Office,Limpopo,50000,30,2020-12-12,R-005
+C-00669,Karoo Provisions 773,Subscription,Corporate Office,Gauteng,50000,30,2021-07-18,R-012
+C-00670,Table Bay Foods 849,Subscription,Corporate Office,Gauteng,50000,30,2018-12-22,R-003
+C-00671,Boland Bakery 460,Subscription,Small Business,Free State,25000,30,2023-11-10,R-011
+C-00672,Boland Bakery 301,Subscription,Corporate Office,KwaZulu-Natal,50000,30,2022-08-22,R-006
+C-00673,Corner Perk 244,Subscription,Corporate Office,Western Cape,25000,30,2021-08-30,R-007
+C-00674,Table Bay Foods 794,Subscription,Co-working Space,Western Cape,25000,30,2022-01-24,R-010
+C-00675,Vaal Trading Co 483,Subscription,Small Business,Gauteng,50000,30,2015-10-13,R-004
+C-00676,Vaal Trading Co 283,Subscription,Medical Practice,KwaZulu-Natal,25000,30,2021-03-20,R-011
+C-00677,Table Bay Foods 72,Subscription,Corporate Office,Western Cape,100000,30,2018-03-25,R-015
+C-00678,Vaal Trading Co 520,Subscription,Corporate Office,Gauteng,50000,30,2021-11-26,R-002
+C-00679,Zebra Cafe 874,Subscription,Medical Practice,Gauteng,25000,30,2017-10-06,R-017
+C-00680,Kalahari Kitchen 123,Subscription,Co-working Space,Gauteng,50000,30,2018-03-06,R-012
+C-00681,Ridgeway Foods 312,Subscription,Co-working Space,Limpopo,50000,30,2015-12-17,R-011
+C-00682,Table Bay Foods 508,Subscription,Small Business,Gauteng,25000,30,2016-12-26,R-009
+C-00683,Karoo Provisions 451,Subscription,Corporate Office,Gauteng,25000,30,2020-05-15,R-011
+C-00684,Umhlanga Fresh 442,Subscription,Small Business,Gauteng,50000,30,2015-08-23,R-009
+C-00685,Boland Bakery 793,Subscription,Corporate Office,Gauteng,50000,30,2020-08-31,R-007
+C-00686,Sunrise Foods 642,Subscription,Corporate Office,Gauteng,100000,30,2019-06-08,R-001
+C-00687,Zebra Cafe 22,Subscription,Corporate Office,Gauteng,50000,30,2017-11-23,R-009
+C-00688,Highveld Deli 723,Subscription,Corporate Office,Western Cape,50000,30,2019-01-18,R-003
+C-00689,Karoo Provisions 639,Subscription,Small Business,Mpumalanga,25000,30,2022-12-16,R-008
+C-00690,Highveld Deli 340,Subscription,Small Business,Western Cape,25000,30,2017-12-14,R-018
+C-00691,Midrand Market 406,Subscription,Co-working Space,Western Cape,25000,30,2023-06-30,R-002
+C-00692,Kalahari Kitchen 7,Subscription,Corporate Office,Gauteng,25000,30,2023-05-05,R-005
+C-00693,Table Bay Foods 81,Subscription,Corporate Office,Mpumalanga,50000,30,2017-03-10,R-009
+C-00694,Highveld Deli 163,Subscription,Corporate Office,Eastern Cape,25000,30,2016-10-10,R-015
+C-00695,The Daily Grind 610,Subscription,Small Business,Limpopo,50000,30,2020-04-28,R-005
+C-00696,Roasted Bean Cafe 442,Subscription,Small Business,KwaZulu-Natal,25000,30,2023-08-27,R-006
+C-00697,Midrand Market 28,Subscription,Small Business,KwaZulu-Natal,100000,30,2021-09-30,R-014
+C-00698,The Daily Grind 290,Subscription,Medical Practice,Western Cape,50000,30,2023-12-15,R-002
+C-00699,Sunrise Foods 599,Subscription,Corporate Office,Eastern Cape,50000,30,2016-09-09,R-018
+C-00700,Cape Point Coffee 864,Subscription,Corporate Office,KwaZulu-Natal,100000,30,2021-09-11,R-009
+C-00701,The Daily Grind 10,Subscription,Small Business,Gauteng,100000,30,2020-03-16,R-016
+C-00702,Umhlanga Fresh 113,Subscription,Small Business,Gauteng,50000,30,2016-09-23,R-003
+C-00703,The Daily Grind 331,Subscription,Corporate Office,Gauteng,25000,30,2019-11-11,R-001
+C-00704,Boland Bakery 574,Subscription,Medical Practice,Gauteng,25000,30,2020-08-20,R-018
+C-00705,Roasted Bean Cafe 254,Subscription,Small Business,KwaZulu-Natal,50000,30,2019-03-28,R-011
+C-00706,Boland Bakery 207,Subscription,Small Business,Gauteng,50000,30,2020-09-11,R-012
+C-00707,Ridgeway Foods 845,Subscription,Corporate Office,Western Cape,25000,30,2024-08-20,R-018
+C-00708,Table Bay Foods 71,Subscription,Corporate Office,Limpopo,25000,30,2016-07-31,R-015
+C-00709,Table Bay Foods 522,Subscription,Corporate Office,KwaZulu-Natal,100000,30,2023-05-30,R-009
+C-00710,Midrand Market 472,Subscription,Corporate Office,KwaZulu-Natal,50000,30,2022-03-25,R-016
+C-00711,Vaal Trading Co 153,Subscription,Small Business,KwaZulu-Natal,25000,30,2021-02-02,R-016
+C-00712,Sunrise Foods 864,Subscription,Small Business,KwaZulu-Natal,25000,30,2021-11-21,R-015
+C-00713,Boland Bakery 152,Subscription,Co-working Space,Gauteng,50000,30,2022-03-11,R-009
+C-00714,The Daily Grind 375,Subscription,Co-working Space,Gauteng,25000,30,2022-07-14,R-006
+C-00715,Midrand Market 501,Subscription,Small Business,Gauteng,50000,30,2018-08-28,R-001
+C-00716,Zebra Cafe 140,Subscription,Co-working Space,Gauteng,100000,30,2024-09-29,R-011
+C-00717,Midrand Market 569,Subscription,Small Business,Gauteng,50000,30,2022-12-25,R-015
+C-00718,Ridgeway Foods 736,Subscription,Corporate Office,Western Cape,25000,30,2016-06-10,R-001
+C-00719,Table Bay Foods 847,Subscription,Small Business,Gauteng,50000,30,2022-09-03,R-006
+C-00720,Cape Point Coffee 786,Subscription,Small Business,Western Cape,50000,30,2023-04-26,R-018
+C-00721,Sunrise Foods 847,Subscription,Corporate Office,Eastern Cape,50000,30,2018-12-11,R-015
+C-00722,Corner Perk 486,Subscription,Co-working Space,Western Cape,25000,30,2021-08-21,R-017
+C-00723,Corner Perk 169,Subscription,Small Business,KwaZulu-Natal,50000,30,2019-12-23,R-010
+C-00724,Table Bay Foods 404,Subscription,Co-working Space,Gauteng,50000,30,2022-01-03,R-010
+C-00725,Highveld Deli 252,Subscription,Small Business,KwaZulu-Natal,25000,30,2024-07-29,R-006
+C-00726,Midrand Market 54,Subscription,Corporate Office,Gauteng,100000,30,2021-02-04,R-009
+C-00727,Kalahari Kitchen 211,Subscription,Corporate Office,Gauteng,50000,30,2015-01-27,R-011
+C-00728,Midrand Market 440,Subscription,Corporate Office,Eastern Cape,50000,30,2017-07-01,R-006
+C-00729,Sunrise Foods 520,Subscription,Corporate Office,Eastern Cape,25000,30,2020-11-19,R-014
+C-00730,Bloom Coffee House 750,Subscription,Small Business,Eastern Cape,25000,30,2018-11-18,R-005
+C-00731,Table Bay Foods 243,Subscription,Corporate Office,Western Cape,25000,30,2019-05-22,R-016
+C-00732,Ridgeway Foods 344,Subscription,Small Business,Gauteng,25000,30,2023-03-24,R-010
+C-00733,Highveld Deli 817,Subscription,Medical Practice,Gauteng,25000,30,2015-08-04,R-009
+C-00734,Vaal Trading Co 133,Subscription,Small Business,Western Cape,25000,30,2018-08-16,R-005
+C-00735,Table Bay Foods 249,Subscription,Corporate Office,KwaZulu-Natal,100000,30,2019-01-26,R-018
+C-00736,Kalahari Kitchen 51,Subscription,Small Business,Eastern Cape,25000,30,2018-01-26,R-008
+C-00737,Corner Perk 650,Subscription,Small Business,Gauteng,50000,30,2016-05-14,R-008
+C-00738,Zebra Cafe 429,Subscription,Small Business,Gauteng,25000,30,2018-02-08,R-008
+C-00739,The Daily Grind 605,Subscription,Co-working Space,Western Cape,100000,30,2024-01-25,R-005
+C-00740,Bloom Coffee House 859,Subscription,Corporate Office,Western Cape,25000,30,2021-05-10,R-013
+C-00741,Corner Perk 701,Subscription,Medical Practice,Free State,100000,30,2021-04-02,R-013
+C-00742,Boland Bakery 636,Subscription,Corporate Office,Gauteng,25000,30,2015-12-14,R-005
+C-00743,Boland Bakery 408,Subscription,Small Business,Gauteng,25000,30,2019-12-19,R-017
+C-00744,Cape Point Coffee 9,Subscription,Corporate Office,Free State,25000,30,2019-12-26,R-005
+C-00745,Boland Bakery 712,Subscription,Medical Practice,Gauteng,25000,30,2022-01-17,R-017
+C-00746,Bloom Coffee House 868,Subscription,Corporate Office,Western Cape,25000,30,2017-06-14,R-006
+C-00747,Table Bay Foods 632,Subscription,Corporate Office,KwaZulu-Natal,50000,30,2024-10-29,R-013
+C-00748,Kalahari Kitchen 775,Subscription,Small Business,Western Cape,25000,30,2023-04-06,R-017
+C-00749,Boland Bakery 366,Subscription,Small Business,Western Cape,25000,30,2024-01-11,R-015
+C-00750,Zebra Cafe 53,Subscription,Corporate Office,Gauteng,50000,30,2021-08-04,R-005
+C-00751,Roasted Bean Cafe 394,Subscription,Corporate Office,Gauteng,25000,30,2024-02-08,R-015
+C-00752,Vaal Trading Co 561,Subscription,Co-working Space,KwaZulu-Natal,25000,30,2016-12-10,R-015
+C-00753,Table Bay Foods 661,Subscription,Corporate Office,Gauteng,25000,30,2022-05-06,R-015
+C-00754,Zebra Cafe 410,Subscription,Corporate Office,Western Cape,25000,30,2017-04-23,R-002
+C-00755,Sunrise Foods 825,Subscription,Corporate Office,Gauteng,25000,30,2023-10-01,R-012
+C-00756,Vaal Trading Co 645,Subscription,Corporate Office,Mpumalanga,25000,30,2015-05-25,R-008
+C-00757,Bloom Coffee House 892,Subscription,Small Business,Western Cape,50000,30,2022-01-05,R-006
+C-00758,Table Bay Foods 780,Subscription,Corporate Office,Gauteng,25000,30,2019-01-10,R-005
+C-00759,Bloom Coffee House 223,Subscription,Medical Practice,Gauteng,50000,30,2019-07-23,R-007
+C-00760,Umhlanga Fresh 110,Subscription,Corporate Office,Gauteng,25000,30,2021-05-16,R-004
+C-00761,Umhlanga Fresh 322,Subscription,Medical Practice,Gauteng,25000,30,2021-04-19,R-011
+C-00762,Table Bay Foods 385,Subscription,Small Business,Free State,25000,30,2021-10-31,R-017
+C-00763,Zebra Cafe 680,Subscription,Small Business,Gauteng,50000,30,2018-11-23,R-011
+C-00764,The Daily Grind 113,Subscription,Small Business,Western Cape,25000,30,2022-07-05,R-010
+C-00765,Boland Bakery 68,Subscription,Corporate Office,Gauteng,25000,30,2016-11-14,R-004
+C-00766,Vaal Trading Co 205,Subscription,Co-working Space,Western Cape,25000,30,2016-01-07,R-011
+C-00767,Midrand Market 685,Subscription,Small Business,KwaZulu-Natal,50000,30,2021-05-27,R-007
+C-00768,Boland Bakery 586,Subscription,Small Business,Mpumalanga,25000,30,2017-02-18,R-007
+C-00769,Boland Bakery 341,Subscription,Small Business,Gauteng,25000,30,2019-04-13,R-014
+C-00770,The Daily Grind 302,Subscription,Small Business,Gauteng,25000,30,2018-11-26,R-017
+C-00771,Karoo Provisions 648,Subscription,Co-working Space,Gauteng,50000,30,2023-05-28,R-017
+C-00772,Highveld Deli 604,Subscription,Corporate Office,Gauteng,25000,30,2015-09-02,R-014
+C-00773,Zebra Cafe 327,Subscription,Small Business,Gauteng,50000,30,2023-09-03,R-014
+C-00774,Highveld Deli 373,Subscription,Co-working Space,Gauteng,25000,30,2024-09-06,R-005
+C-00775,Vaal Trading Co 475,Subscription,Corporate Office,Mpumalanga,100000,30,2022-05-05,R-001
+C-00776,Table Bay Foods 836,Subscription,Corporate Office,Gauteng,100000,30,2023-07-12,R-002
+C-00777,Roasted Bean Cafe 468,Subscription,Corporate Office,Western Cape,25000,30,2020-05-27,R-002
+C-00778,Highveld Deli 212,Subscription,Corporate Office,Gauteng,100000,30,2016-03-23,R-003
+C-00779,Bloom Coffee House 632,Subscription,Small Business,North West,25000,30,2021-07-17,R-006
+C-00780,The Daily Grind 887,Subscription,Small Business,Western Cape,50000,30,2024-04-03,R-009
+C-00781,Sunrise Foods 556,Subscription,Co-working Space,Western Cape,50000,30,2017-11-15,R-014
+C-00782,Midrand Market 684,Subscription,Corporate Office,Western Cape,50000,30,2018-07-05,R-007
+C-00783,Roasted Bean Cafe 86,Subscription,Small Business,Gauteng,100000,30,2020-11-21,R-004
+C-00784,Table Bay Foods 572,Subscription,Small Business,Gauteng,50000,30,2016-01-19,R-013
+C-00785,Vaal Trading Co 446,Subscription,Co-working Space,Gauteng,25000,30,2020-07-11,R-003
+C-00786,Kalahari Kitchen 395,Subscription,Small Business,Western Cape,50000,30,2023-10-17,R-014
+C-00787,Roasted Bean Cafe 1,Subscription,Co-working Space,Western Cape,50000,30,2016-11-28,R-002
+C-00788,Vaal Trading Co 793,Subscription,Medical Practice,Western Cape,100000,30,2019-02-26,R-006
+C-00789,Corner Perk 487,Subscription,Small Business,Western Cape,25000,30,2017-02-26,R-005
+C-00790,Vaal Trading Co 402,Subscription,Small Business,Gauteng,25000,30,2015-10-28,R-008
+C-00791,Midrand Market 2,Subscription,Corporate Office,Mpumalanga,25000,30,2018-10-26,R-007
+C-00792,Corner Perk 363,Subscription,Corporate Office,Western Cape,25000,30,2022-10-22,R-010
+C-00793,The Daily Grind 829,Subscription,Corporate Office,Gauteng,100000,30,2023-05-30,R-007
+C-00794,Cape Point Coffee 305,Subscription,Corporate Office,Western Cape,50000,30,2023-10-22,R-006
+C-00795,Ridgeway Foods 750,Subscription,Small Business,KwaZulu-Natal,100000,30,2015-06-05,R-001
+C-00796,Zebra Cafe 237,Subscription,Corporate Office,Western Cape,50000,30,2023-09-17,R-002
+C-00797,Corner Perk 707,Subscription,Small Business,Limpopo,25000,30,2016-02-22,R-003
+C-00798,The Daily Grind 422,Subscription,Corporate Office,Western Cape,25000,30,2016-12-30,R-003
+C-00799,Roasted Bean Cafe 381,Subscription,Co-working Space,Western Cape,50000,30,2015-01-17,R-015
+C-00800,Vaal Trading Co 127,Subscription,Medical Practice,KwaZulu-Natal,25000,30,2023-11-20,R-002
+C-00801,Bloom Coffee House 308,Subscription,Co-working Space,Western Cape,25000,30,2023-10-15,R-011
+C-00802,Umhlanga Fresh 74,Subscription,Corporate Office,Gauteng,25000,30,2019-04-08,R-017
+C-00803,Sunrise Foods 823,Subscription,Small Business,Western Cape,25000,30,2019-06-13,R-013
+C-00804,Bloom Coffee House 438,Subscription,Small Business,Gauteng,50000,30,2023-06-25,R-012
+C-00805,The Daily Grind 717,Subscription,Corporate Office,KwaZulu-Natal,50000,30,2018-07-16,R-017
+C-00806,Sunrise Foods 586,Subscription,Corporate Office,Gauteng,25000,30,2016-04-07,R-014
+C-00807,Highveld Deli 112,Subscription,Co-working Space,Western Cape,100000,30,2023-02-25,R-018
+C-00808,Ridgeway Foods 517,Subscription,Medical Practice,Gauteng,100000,30,2020-10-19,R-007
+C-00809,Kalahari Kitchen 536,Subscription,Co-working Space,Free State,100000,30,2023-09-25,R-013
+C-00810,Bloom Coffee House 281,Subscription,Small Business,Gauteng,25000,30,2016-05-15,R-002
+C-00811,Umhlanga Fresh 632,Subscription,Small Business,North West,25000,30,2021-06-13,R-003
+C-00812,The Daily Grind 700,Subscription,Small Business,Gauteng,25000,30,2018-02-22,R-001
+C-00813,Cape Point Coffee 571,Subscription,Corporate Office,Gauteng,50000,30,2018-03-15,R-001
+C-00814,Table Bay Foods 651,Subscription,Co-working Space,Western Cape,25000,30,2015-05-09,R-012
+C-00815,Sunrise Foods 850,Subscription,Corporate Office,Mpumalanga,25000,30,2015-03-28,R-009
+C-00816,The Daily Grind 795,Subscription,Medical Practice,Western Cape,25000,30,2022-11-09,R-010
+C-00817,Midrand Market 456,Subscription,Corporate Office,Western Cape,25000,30,2017-03-20,R-011
+C-00818,Bloom Coffee House 184,Subscription,Corporate Office,Western Cape,25000,30,2020-03-23,R-013
+C-00819,Umhlanga Fresh 630,Subscription,Small Business,Eastern Cape,25000,30,2018-07-28,R-010
+C-00820,Zebra Cafe 597,Subscription,Corporate Office,Gauteng,50000,30,2019-05-08,R-002
+C-00821,Table Bay Foods 77,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2016-02-05,R-005
+C-00822,Corner Perk 518,Subscription,Medical Practice,Gauteng,25000,30,2019-06-01,R-002
+C-00823,Sunrise Foods 594,Subscription,Small Business,KwaZulu-Natal,25000,30,2018-01-22,R-016
+C-00824,Karoo Provisions 633,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2015-03-20,R-002
+C-00825,Corner Perk 851,Subscription,Co-working Space,Mpumalanga,25000,30,2016-08-23,R-001
+C-00826,Highveld Deli 701,Subscription,Small Business,Gauteng,50000,30,2015-09-21,R-002
+C-00827,Sunrise Foods 151,Subscription,Corporate Office,Gauteng,25000,30,2021-05-12,R-009
+C-00828,Roasted Bean Cafe 247,Subscription,Small Business,Eastern Cape,25000,30,2017-04-23,R-015
+C-00829,Boland Bakery 238,Subscription,Corporate Office,KwaZulu-Natal,50000,30,2022-06-08,R-017
+C-00830,Midrand Market 333,Subscription,Corporate Office,Gauteng,25000,30,2017-05-24,R-009
+C-00831,Kalahari Kitchen 890,Subscription,Corporate Office,Gauteng,50000,30,2015-01-25,R-009
+C-00832,Sunrise Foods 181,Subscription,Corporate Office,Western Cape,25000,30,2018-07-08,R-004
+C-00833,Bloom Coffee House 775,Subscription,Corporate Office,Gauteng,25000,30,2022-05-12,R-003
+C-00834,Karoo Provisions 525,Subscription,Co-working Space,Western Cape,25000,30,2015-09-23,R-003
+C-00835,The Daily Grind 621,Subscription,Corporate Office,KwaZulu-Natal,50000,30,2022-03-27,R-008
+C-00836,Zebra Cafe 777,Subscription,Corporate Office,Western Cape,25000,30,2017-08-20,R-013
+C-00837,Bloom Coffee House 754,Subscription,Small Business,Gauteng,25000,30,2016-06-03,R-001
+C-00838,Boland Bakery 151,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2016-12-11,R-018
+C-00839,Ridgeway Foods 894,Subscription,Co-working Space,Gauteng,25000,30,2023-11-01,R-005
+C-00840,Sunrise Foods 346,Subscription,Small Business,Limpopo,25000,30,2022-05-30,R-009
+C-00841,Kalahari Kitchen 453,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2023-07-07,R-013
+C-00842,Zebra Cafe 474,Subscription,Corporate Office,Gauteng,50000,30,2017-01-17,R-010
+C-00843,The Daily Grind 779,Subscription,Medical Practice,Western Cape,50000,30,2015-12-24,R-002
+C-00844,Midrand Market 591,Subscription,Co-working Space,KwaZulu-Natal,50000,30,2015-10-09,R-017
+C-00845,Bloom Coffee House 54,Subscription,Small Business,Western Cape,100000,30,2015-08-18,R-010
+C-00846,Bloom Coffee House 854,Subscription,Small Business,Western Cape,50000,30,2022-05-14,R-013
+C-00847,Boland Bakery 46,Subscription,Small Business,Western Cape,25000,30,2022-08-11,R-006
+C-00848,Umhlanga Fresh 717,Subscription,Medical Practice,Gauteng,50000,30,2017-07-12,R-008
+C-00849,Cape Point Coffee 742,Subscription,Medical Practice,Gauteng,25000,30,2015-08-06,R-004
+C-00850,Table Bay Foods 728,Subscription,Corporate Office,Gauteng,50000,30,2015-08-02,R-010
+C-00851,Ridgeway Foods 317,Subscription,Medical Practice,Western Cape,25000,30,2016-06-07,R-009
+C-00852,Corner Perk 692,Subscription,Corporate Office,Gauteng,50000,30,2018-04-11,R-016
+C-00853,The Daily Grind 844,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2018-07-12,R-001
+C-00854,Table Bay Foods 763,Subscription,Corporate Office,Free State,25000,30,2019-11-06,R-018
+C-00855,Roasted Bean Cafe 688,Subscription,Co-working Space,Free State,100000,30,2020-01-28,R-005
+C-00856,Corner Perk 633,Subscription,Corporate Office,Gauteng,100000,30,2016-06-23,R-002
+C-00857,Roasted Bean Cafe 397,Subscription,Corporate Office,Eastern Cape,100000,30,2016-07-10,R-011
+C-00858,Corner Perk 198,Subscription,Small Business,KwaZulu-Natal,100000,30,2024-11-08,R-009
+C-00859,Karoo Provisions 237,Subscription,Small Business,Western Cape,25000,30,2021-10-12,R-007
+C-00860,Zebra Cafe 207,Subscription,Small Business,Western Cape,50000,30,2023-11-30,R-014
+C-00861,Kalahari Kitchen 431,Subscription,Small Business,Mpumalanga,25000,30,2020-01-07,R-006
+C-00862,Vaal Trading Co 510,Subscription,Corporate Office,Eastern Cape,50000,30,2017-01-03,R-006
+C-00863,Cape Point Coffee 70,Subscription,Corporate Office,KwaZulu-Natal,50000,30,2017-10-17,R-001
+C-00864,Midrand Market 392,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2022-08-02,R-016
+C-00865,Cape Point Coffee 149,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2021-04-16,R-009
+C-00866,Cape Point Coffee 81,Subscription,Corporate Office,Limpopo,50000,30,2020-11-08,R-010
+C-00867,The Daily Grind 514,Subscription,Small Business,Mpumalanga,25000,30,2017-04-27,R-014
+C-00868,Midrand Market 886,Subscription,Small Business,Western Cape,25000,30,2021-07-14,R-003
+C-00869,Karoo Provisions 416,Subscription,Small Business,Gauteng,25000,30,2015-01-15,R-005
+C-00870,Zebra Cafe 381,Subscription,Small Business,Western Cape,25000,30,2019-09-24,R-007
+C-00871,Vaal Trading Co 349,Subscription,Small Business,Gauteng,25000,30,2018-01-14,R-008
+C-00872,Highveld Deli 682,Subscription,Corporate Office,Western Cape,50000,30,2021-01-27,R-014
+C-00873,Bloom Coffee House 528,Subscription,Medical Practice,KwaZulu-Natal,50000,30,2022-12-25,R-016
+C-00874,Umhlanga Fresh 776,Subscription,Corporate Office,Gauteng,100000,30,2024-05-19,R-002
+C-00875,Midrand Market 648,Subscription,Corporate Office,Gauteng,25000,30,2023-03-03,R-016
+C-00876,Zebra Cafe 465,Subscription,Corporate Office,Mpumalanga,25000,30,2019-12-29,R-010
+C-00877,Ridgeway Foods 637,Subscription,Corporate Office,Gauteng,25000,30,2016-07-14,R-014
+C-00878,Kalahari Kitchen 510,Subscription,Corporate Office,Eastern Cape,50000,30,2022-02-07,R-006
+C-00879,Roasted Bean Cafe 320,Subscription,Small Business,KwaZulu-Natal,25000,30,2017-08-30,R-004
+C-00880,Bloom Coffee House 738,Subscription,Medical Practice,Gauteng,50000,30,2022-06-22,R-018
+C-00881,Sunrise Foods 501,Subscription,Co-working Space,Eastern Cape,100000,30,2023-02-20,R-012
+C-00882,Bloom Coffee House 649,Subscription,Corporate Office,North West,100000,30,2022-05-08,R-004
+C-00883,Ridgeway Foods 705,Subscription,Medical Practice,Gauteng,100000,30,2015-09-13,R-012
+C-00884,Boland Bakery 50,Subscription,Small Business,Western Cape,100000,30,2017-09-19,R-012
+C-00885,Boland Bakery 491,Subscription,Corporate Office,Western Cape,25000,30,2016-09-11,R-003
+C-00886,Zebra Cafe 567,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2021-09-02,R-005
+C-00887,Corner Perk 398,Subscription,Corporate Office,Mpumalanga,100000,30,2015-01-02,R-002
+C-00888,Sunrise Foods 717,Subscription,Corporate Office,Mpumalanga,25000,30,2022-08-24,R-011
+C-00889,Highveld Deli 222,Subscription,Small Business,Western Cape,25000,30,2017-09-04,R-011
+C-00890,Roasted Bean Cafe 311,Subscription,Medical Practice,Gauteng,100000,30,2023-09-22,R-008
+C-00891,Cape Point Coffee 473,Subscription,Small Business,Mpumalanga,25000,30,2016-04-08,R-010
+C-00892,Bloom Coffee House 287,Subscription,Corporate Office,Western Cape,25000,30,2016-03-05,R-001
+C-00893,Sunrise Foods 326,Subscription,Small Business,Western Cape,25000,30,2015-12-20,R-004
+C-00894,Ridgeway Foods 456,Subscription,Co-working Space,Western Cape,50000,30,2018-06-08,R-012
+C-00895,Ridgeway Foods 22,Subscription,Small Business,Gauteng,25000,30,2023-12-21,R-005
+C-00896,Karoo Provisions 589,Subscription,Co-working Space,Gauteng,100000,30,2019-10-24,R-011
+C-00897,Karoo Provisions 549,Subscription,Small Business,Gauteng,50000,30,2022-05-16,R-008
+C-00898,Corner Perk 661,Subscription,Medical Practice,Gauteng,25000,30,2021-12-25,R-005
+C-00899,Zebra Cafe 514,Subscription,Small Business,Gauteng,25000,30,2016-12-08,R-003
+C-00900,Sunrise Foods 782,Subscription,Corporate Office,Gauteng,100000,30,2022-09-16,R-017
+C-00901,The Daily Grind 208,Subscription,Small Business,KwaZulu-Natal,25000,30,2024-01-04,R-015
+C-00902,Ridgeway Foods 888,Subscription,Small Business,Gauteng,25000,30,2020-04-26,R-007
+C-00903,Highveld Deli 597,Subscription,Corporate Office,Western Cape,100000,30,2017-12-13,R-006
+C-00904,Umhlanga Fresh 511,Subscription,Small Business,Western Cape,50000,30,2024-10-08,R-007
+C-00905,Sunrise Foods 479,Subscription,Corporate Office,Western Cape,25000,30,2022-07-18,R-004
+C-00906,Cape Point Coffee 106,Subscription,Small Business,Gauteng,25000,30,2022-12-03,R-006
+C-00907,Zebra Cafe 200,Subscription,Corporate Office,Western Cape,50000,30,2023-01-13,R-011
+C-00908,Boland Bakery 273,Subscription,Small Business,Gauteng,100000,30,2024-02-20,R-004
+C-00909,Sunrise Foods 760,Subscription,Medical Practice,Gauteng,50000,30,2019-09-26,R-005
+C-00910,Table Bay Foods 636,Subscription,Corporate Office,Limpopo,25000,30,2018-06-22,R-004
+C-00911,Highveld Deli 716,Subscription,Medical Practice,Gauteng,50000,30,2023-05-25,R-001
+C-00912,Boland Bakery 8,Subscription,Medical Practice,Western Cape,25000,30,2021-04-11,R-011
+C-00913,The Daily Grind 643,Subscription,Co-working Space,Western Cape,100000,30,2017-08-20,R-012
+C-00914,Roasted Bean Cafe 529,Subscription,Small Business,Gauteng,25000,30,2022-12-15,R-003
+C-00915,Cape Point Coffee 889,Subscription,Corporate Office,Western Cape,100000,30,2020-10-02,R-015
+C-00916,Umhlanga Fresh 816,Subscription,Small Business,Gauteng,25000,30,2023-12-23,R-004
+C-00917,Boland Bakery 339,Subscription,Corporate Office,Gauteng,50000,30,2022-04-28,R-002
+C-00918,Table Bay Foods 387,Subscription,Small Business,Gauteng,25000,30,2020-01-26,R-004
+C-00919,Zebra Cafe 741,Subscription,Medical Practice,Gauteng,100000,30,2017-05-28,R-012
+C-00920,Kalahari Kitchen 764,Subscription,Small Business,Free State,100000,30,2019-12-08,R-011
+C-00921,Kalahari Kitchen 672,Subscription,Small Business,KwaZulu-Natal,25000,30,2022-07-29,R-017
+C-00922,Kalahari Kitchen 513,Subscription,Medical Practice,Western Cape,50000,30,2019-07-26,R-010
+C-00923,Corner Perk 102,Subscription,Corporate Office,Gauteng,50000,30,2020-02-11,R-017
+C-00924,Umhlanga Fresh 295,Subscription,Co-working Space,Gauteng,50000,30,2024-01-18,R-014
+C-00925,Sunrise Foods 458,Subscription,Medical Practice,Gauteng,50000,30,2023-06-23,R-004
+C-00926,Ridgeway Foods 773,Subscription,Corporate Office,KwaZulu-Natal,50000,30,2019-05-06,R-008
+C-00927,Bloom Coffee House 761,Subscription,Co-working Space,Gauteng,100000,30,2022-09-28,R-006
+C-00928,Bloom Coffee House 601,Subscription,Small Business,Gauteng,25000,30,2018-03-18,R-009
+C-00929,Vaal Trading Co 406,Subscription,Corporate Office,Western Cape,25000,30,2024-05-26,R-001
+C-00930,Cape Point Coffee 777,Subscription,Corporate Office,Mpumalanga,25000,30,2018-09-19,R-008
+C-00931,Umhlanga Fresh 235,Subscription,Corporate Office,Gauteng,25000,30,2017-08-01,R-014
+C-00932,Karoo Provisions 720,Subscription,Co-working Space,Mpumalanga,100000,30,2021-03-17,R-017
+C-00933,Roasted Bean Cafe 340,Subscription,Corporate Office,Gauteng,50000,30,2016-02-14,R-012
+C-00934,Kalahari Kitchen 165,Subscription,Medical Practice,Gauteng,100000,30,2021-02-11,R-002
+C-00935,Zebra Cafe 528,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2023-06-26,R-002
+C-00936,Karoo Provisions 481,Subscription,Corporate Office,Gauteng,100000,30,2015-08-15,R-011
+C-00937,Zebra Cafe 1,Subscription,Small Business,Western Cape,25000,30,2024-02-17,R-010
+C-00938,Karoo Provisions 139,Subscription,Small Business,Western Cape,25000,30,2018-10-01,R-013
+C-00939,Boland Bakery 545,Subscription,Medical Practice,Free State,25000,30,2016-08-26,R-005
+C-00940,Roasted Bean Cafe 220,Subscription,Corporate Office,Gauteng,50000,30,2019-05-02,R-002
+C-00941,Vaal Trading Co 718,Subscription,Corporate Office,Gauteng,100000,30,2024-03-22,R-013
+C-00942,Zebra Cafe 769,Subscription,Corporate Office,Gauteng,50000,30,2018-11-07,R-006
+C-00943,Umhlanga Fresh 799,Subscription,Corporate Office,Eastern Cape,25000,30,2016-04-29,R-013
+C-00944,Zebra Cafe 86,Subscription,Co-working Space,Western Cape,100000,30,2023-03-20,R-017
+C-00945,Table Bay Foods 765,Subscription,Co-working Space,Limpopo,100000,30,2019-03-28,R-012
+C-00946,Bloom Coffee House 436,Subscription,Small Business,Mpumalanga,25000,30,2017-11-28,R-001
+C-00947,Sunrise Foods 489,Subscription,Small Business,Free State,100000,30,2017-05-12,R-009
+C-00948,Karoo Provisions 678,Subscription,Medical Practice,Western Cape,50000,30,2020-03-01,R-015
+C-00949,Umhlanga Fresh 333,Subscription,Medical Practice,Gauteng,25000,30,2020-11-11,R-009
+C-00950,Karoo Provisions 4,Subscription,Corporate Office,Mpumalanga,25000,30,2020-10-30,R-006
+C-00951,Zebra Cafe 537,Subscription,Corporate Office,Limpopo,50000,30,2023-11-16,R-012
+C-00952,Bloom Coffee House 84,Subscription,Corporate Office,Gauteng,25000,30,2015-02-02,R-004
+C-00953,Vaal Trading Co 503,Subscription,Corporate Office,Western Cape,25000,30,2015-02-10,R-003
+C-00954,Boland Bakery 835,Subscription,Corporate Office,Gauteng,25000,30,2023-06-28,R-010
+C-00955,Midrand Market 241,Subscription,Corporate Office,Gauteng,25000,30,2020-08-15,R-017
+C-00956,Vaal Trading Co 729,Subscription,Corporate Office,Western Cape,50000,30,2015-09-21,R-012
+C-00957,Midrand Market 304,Subscription,Medical Practice,Free State,50000,30,2016-05-13,R-007
+C-00958,Umhlanga Fresh 425,Subscription,Co-working Space,Western Cape,25000,30,2023-01-22,R-006
+C-00959,Highveld Deli 575,Subscription,Corporate Office,Gauteng,25000,30,2018-11-18,R-014
+C-00960,Highveld Deli 686,Subscription,Small Business,KwaZulu-Natal,50000,30,2023-01-26,R-012
+C-00961,Kalahari Kitchen 737,Subscription,Corporate Office,Gauteng,25000,30,2016-01-08,R-003
+C-00962,Boland Bakery 342,Subscription,Corporate Office,Western Cape,25000,30,2018-04-07,R-005
+C-00963,Midrand Market 766,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2017-02-12,R-004
+C-00964,Ridgeway Foods 43,Subscription,Co-working Space,Free State,50000,30,2020-06-26,R-014
+C-00965,Boland Bakery 207,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2022-02-16,R-006
+C-00966,Umhlanga Fresh 367,Subscription,Co-working Space,Gauteng,50000,30,2017-02-09,R-012
+C-00967,Boland Bakery 788,Subscription,Medical Practice,Gauteng,25000,30,2017-10-01,R-009
+C-00968,Kalahari Kitchen 167,Subscription,Co-working Space,Gauteng,25000,30,2022-07-15,R-014
+C-00969,The Daily Grind 691,Subscription,Corporate Office,Gauteng,50000,30,2017-08-25,R-005
+C-00970,Corner Perk 380,Subscription,Small Business,Free State,50000,30,2023-03-13,R-008
+C-00971,Boland Bakery 563,Subscription,Small Business,KwaZulu-Natal,50000,30,2021-09-29,R-015
+C-00972,Roasted Bean Cafe 107,Subscription,Small Business,Western Cape,25000,30,2016-02-02,R-007
+C-00973,Kalahari Kitchen 849,Subscription,Medical Practice,Gauteng,50000,30,2021-11-11,R-004
+C-00974,Corner Perk 621,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2015-07-21,R-002
+C-00975,Midrand Market 556,Subscription,Corporate Office,Free State,50000,30,2023-06-16,R-008
+C-00976,Karoo Provisions 551,Subscription,Small Business,North West,100000,30,2021-01-26,R-004
+C-00977,Table Bay Foods 261,Subscription,Medical Practice,Gauteng,50000,30,2023-02-06,R-011
+C-00978,Kalahari Kitchen 588,Subscription,Corporate Office,Gauteng,100000,30,2023-09-06,R-015
+C-00979,Roasted Bean Cafe 476,Subscription,Corporate Office,Gauteng,100000,30,2021-07-11,R-006
+C-00980,Vaal Trading Co 559,Subscription,Co-working Space,Gauteng,50000,30,2021-09-15,R-016
+C-00981,Midrand Market 860,Subscription,Medical Practice,Gauteng,25000,30,2022-01-23,R-003
+C-00982,Vaal Trading Co 284,Subscription,Corporate Office,KwaZulu-Natal,100000,30,2015-07-04,R-017
+C-00983,Highveld Deli 821,Subscription,Co-working Space,Gauteng,50000,30,2018-10-22,R-008
+C-00984,Umhlanga Fresh 219,Subscription,Small Business,Gauteng,50000,30,2018-08-05,R-005
+C-00985,Umhlanga Fresh 523,Subscription,Small Business,Western Cape,100000,30,2019-08-19,R-013
+C-00986,Kalahari Kitchen 889,Subscription,Co-working Space,Mpumalanga,25000,30,2016-08-03,R-016
+C-00987,Karoo Provisions 476,Subscription,Small Business,Mpumalanga,50000,30,2023-04-14,R-003
+C-00988,Corner Perk 735,Subscription,Medical Practice,KwaZulu-Natal,50000,30,2019-04-29,R-002
+C-00989,Vaal Trading Co 471,Subscription,Corporate Office,Gauteng,50000,30,2017-02-23,R-008
+C-00990,Highveld Deli 793,Subscription,Co-working Space,Gauteng,50000,30,2024-09-16,R-001
+C-00991,Kalahari Kitchen 879,Subscription,Corporate Office,North West,100000,30,2020-01-16,R-005
+C-00992,Kalahari Kitchen 823,Subscription,Corporate Office,Eastern Cape,25000,30,2023-09-16,R-001
+C-00993,Ridgeway Foods 123,Subscription,Small Business,Eastern Cape,50000,30,2015-09-26,R-016
+C-00994,Ridgeway Foods 654,Subscription,Small Business,Gauteng,50000,30,2021-02-01,R-004
+C-00995,Cape Point Coffee 254,Subscription,Corporate Office,Western Cape,100000,30,2018-08-21,R-010
+C-00996,Kalahari Kitchen 59,Subscription,Small Business,KwaZulu-Natal,50000,30,2024-02-04,R-005
+C-00997,Sunrise Foods 318,Subscription,Medical Practice,Eastern Cape,25000,30,2023-05-15,R-012
+C-00998,Zebra Cafe 876,Subscription,Small Business,Western Cape,25000,30,2022-11-09,R-002
+C-00999,Vaal Trading Co 75,Subscription,Corporate Office,Western Cape,50000,30,2019-09-04,R-007
+C-01000,Corner Perk 754,Subscription,Medical Practice,Free State,100000,30,2021-06-07,R-010
+C-01001,Midrand Market 496,Subscription,Small Business,Gauteng,50000,30,2019-12-05,R-009
+C-01002,Roasted Bean Cafe 266,Subscription,Small Business,Gauteng,50000,30,2020-03-17,R-002
+C-01003,Bloom Coffee House 646,Subscription,Corporate Office,Limpopo,25000,30,2021-07-23,R-001
+C-01004,Kalahari Kitchen 527,Subscription,Medical Practice,KwaZulu-Natal,25000,30,2019-10-24,R-006
+C-01005,Bloom Coffee House 1,Subscription,Corporate Office,Gauteng,25000,30,2016-11-05,R-012
+C-01006,Kalahari Kitchen 791,Subscription,Corporate Office,Gauteng,25000,30,2015-01-13,R-013
+C-01007,Ridgeway Foods 857,Subscription,Corporate Office,Free State,25000,30,2024-04-03,R-003
+C-01008,Zebra Cafe 482,Subscription,Corporate Office,Gauteng,100000,30,2017-12-01,R-011
+C-01009,Ridgeway Foods 356,Subscription,Corporate Office,KwaZulu-Natal,100000,30,2020-04-24,R-010
+C-01010,Cape Point Coffee 190,Subscription,Corporate Office,Gauteng,25000,30,2018-03-17,R-010
+C-01011,Boland Bakery 681,Subscription,Corporate Office,Western Cape,25000,30,2022-04-25,R-006
+C-01012,Table Bay Foods 594,Subscription,Co-working Space,Western Cape,50000,30,2021-01-02,R-010
+C-01013,Highveld Deli 414,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2016-06-17,R-002
+C-01014,Sunrise Foods 41,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2022-06-24,R-002
+C-01015,Midrand Market 544,Subscription,Corporate Office,Gauteng,25000,30,2022-11-01,R-009
+C-01016,Cape Point Coffee 29,Subscription,Corporate Office,Mpumalanga,25000,30,2021-06-27,R-001
+C-01017,Highveld Deli 498,Subscription,Corporate Office,Western Cape,100000,30,2024-01-12,R-017
+C-01018,Sunrise Foods 786,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2023-03-14,R-017
+C-01019,Roasted Bean Cafe 29,Subscription,Corporate Office,Gauteng,100000,30,2016-03-03,R-001
+C-01020,Boland Bakery 534,Subscription,Small Business,Western Cape,100000,30,2016-12-06,R-009
+C-01021,Table Bay Foods 852,Subscription,Corporate Office,Western Cape,25000,30,2024-04-06,R-014
+C-01022,Midrand Market 191,Subscription,Small Business,Gauteng,25000,30,2019-08-24,R-014
+C-01023,Corner Perk 145,Subscription,Medical Practice,Eastern Cape,50000,30,2024-03-12,R-010
+C-01024,Bloom Coffee House 225,Subscription,Co-working Space,KwaZulu-Natal,100000,30,2023-10-16,R-007
+C-01025,Bloom Coffee House 439,Subscription,Corporate Office,Eastern Cape,100000,30,2020-06-26,R-008
+C-01026,Cape Point Coffee 75,Subscription,Co-working Space,Gauteng,50000,30,2015-09-17,R-003
+C-01027,Highveld Deli 788,Subscription,Medical Practice,KwaZulu-Natal,25000,30,2015-08-08,R-015
+C-01028,Umhlanga Fresh 198,Subscription,Co-working Space,Free State,25000,30,2017-04-03,R-003
+C-01029,Kalahari Kitchen 126,Subscription,Small Business,KwaZulu-Natal,50000,30,2021-08-13,R-014
+C-01030,Highveld Deli 210,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2019-02-15,R-018
+C-01031,Table Bay Foods 204,Subscription,Medical Practice,Gauteng,50000,30,2024-01-16,R-011
+C-01032,Cape Point Coffee 337,Subscription,Medical Practice,Gauteng,50000,30,2019-12-16,R-003
+C-01033,Corner Perk 549,Subscription,Co-working Space,North West,25000,30,2024-10-16,R-004
+C-01034,Midrand Market 847,Subscription,Co-working Space,KwaZulu-Natal,50000,30,2017-09-08,R-004
+C-01035,Vaal Trading Co 109,Subscription,Corporate Office,Western Cape,100000,30,2018-06-17,R-010
+C-01036,Highveld Deli 737,Subscription,Small Business,Gauteng,50000,30,2020-10-13,R-011
+C-01037,Sunrise Foods 221,Subscription,Small Business,Western Cape,25000,30,2024-02-22,R-017
+C-01038,Boland Bakery 127,Subscription,Small Business,KwaZulu-Natal,25000,30,2018-06-06,R-013
+C-01039,Ridgeway Foods 384,Subscription,Co-working Space,Mpumalanga,50000,30,2023-02-09,R-006
+C-01040,Cape Point Coffee 55,Subscription,Small Business,Gauteng,50000,30,2018-04-11,R-009
+C-01041,Cape Point Coffee 638,Subscription,Small Business,Gauteng,50000,30,2017-10-02,R-012
+C-01042,The Daily Grind 159,Subscription,Medical Practice,Gauteng,25000,30,2016-10-04,R-018
+C-01043,Table Bay Foods 741,Subscription,Corporate Office,Western Cape,25000,30,2017-12-18,R-007
+C-01044,Highveld Deli 858,Subscription,Co-working Space,Western Cape,25000,30,2015-07-23,R-004
+C-01045,Umhlanga Fresh 584,Subscription,Corporate Office,Western Cape,25000,30,2019-04-03,R-015
+C-01046,Sunrise Foods 781,Subscription,Corporate Office,KwaZulu-Natal,100000,30,2015-10-27,R-006
+C-01047,Zebra Cafe 858,Subscription,Corporate Office,Gauteng,50000,30,2015-11-23,R-016
+C-01048,Boland Bakery 227,Subscription,Co-working Space,Gauteng,25000,30,2022-12-31,R-015
+C-01049,Cape Point Coffee 495,Subscription,Corporate Office,Gauteng,100000,30,2020-11-22,R-005
+C-01050,Highveld Deli 704,Subscription,Medical Practice,Gauteng,25000,30,2019-02-22,R-017
+C-01051,Table Bay Foods 127,Subscription,Medical Practice,Western Cape,50000,30,2017-09-29,R-003
+C-01052,Roasted Bean Cafe 593,Subscription,Medical Practice,Western Cape,25000,30,2019-07-06,R-014
+C-01053,Highveld Deli 851,Subscription,Small Business,Gauteng,50000,30,2020-10-21,R-006
+C-01054,Boland Bakery 296,Subscription,Small Business,Gauteng,25000,30,2019-12-16,R-012
+C-01055,Karoo Provisions 858,Subscription,Corporate Office,Eastern Cape,50000,30,2015-12-21,R-018
+C-01056,Zebra Cafe 371,Subscription,Co-working Space,Gauteng,25000,30,2024-08-11,R-004
+C-01057,Roasted Bean Cafe 475,Subscription,Medical Practice,Gauteng,50000,30,2019-02-27,R-010
+C-01058,Highveld Deli 867,Subscription,Corporate Office,Western Cape,25000,30,2015-05-17,R-018
+C-01059,Boland Bakery 23,Subscription,Small Business,Mpumalanga,25000,30,2023-12-30,R-016
+C-01060,Vaal Trading Co 216,Subscription,Co-working Space,KwaZulu-Natal,25000,30,2022-06-22,R-015
+C-01061,Zebra Cafe 102,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2020-11-16,R-005
+C-01062,Table Bay Foods 26,Subscription,Small Business,KwaZulu-Natal,100000,30,2022-03-11,R-010
+C-01063,Cape Point Coffee 806,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2022-09-22,R-014
+C-01064,Corner Perk 537,Subscription,Medical Practice,Free State,25000,30,2016-02-27,R-013
+C-01065,Bloom Coffee House 142,Subscription,Small Business,Gauteng,25000,30,2023-10-13,R-012
+C-01066,Zebra Cafe 315,Subscription,Corporate Office,Free State,50000,30,2022-12-02,R-004
+C-01067,Sunrise Foods 638,Subscription,Co-working Space,Eastern Cape,25000,30,2022-05-26,R-007
+C-01068,Karoo Provisions 240,Subscription,Co-working Space,Gauteng,25000,30,2018-11-23,R-002
+C-01069,Boland Bakery 369,Subscription,Corporate Office,Gauteng,25000,30,2023-09-29,R-015
+C-01070,Boland Bakery 51,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2018-06-21,R-012
+C-01071,Sunrise Foods 166,Subscription,Medical Practice,Mpumalanga,50000,30,2015-07-14,R-018
+C-01072,Cape Point Coffee 25,Subscription,Small Business,Gauteng,25000,30,2018-09-25,R-007
+C-01073,Sunrise Foods 149,Subscription,Co-working Space,KwaZulu-Natal,50000,30,2020-12-09,R-018
+C-01074,Vaal Trading Co 176,Subscription,Corporate Office,Western Cape,50000,30,2019-08-31,R-014
+C-01075,Ridgeway Foods 351,Subscription,Small Business,Western Cape,25000,30,2023-08-22,R-001
+C-01076,Kalahari Kitchen 276,Subscription,Small Business,Western Cape,50000,30,2020-10-17,R-013
+C-01077,Vaal Trading Co 616,Subscription,Corporate Office,Gauteng,25000,30,2018-09-14,R-006
+C-01078,Zebra Cafe 253,Subscription,Small Business,Gauteng,50000,30,2023-10-06,R-017
+C-01079,Karoo Provisions 691,Subscription,Small Business,Western Cape,25000,30,2017-06-20,R-004
+C-01080,Midrand Market 95,Subscription,Co-working Space,KwaZulu-Natal,100000,30,2016-03-15,R-016
+C-01081,Kalahari Kitchen 842,Subscription,Small Business,Gauteng,25000,30,2015-08-11,R-017
+C-01082,Karoo Provisions 700,Subscription,Corporate Office,Eastern Cape,25000,30,2020-08-14,R-009
+C-01083,Kalahari Kitchen 421,Subscription,Corporate Office,North West,50000,30,2022-02-04,R-007
+C-01084,Kalahari Kitchen 672,Subscription,Medical Practice,Gauteng,25000,30,2017-10-20,R-009
+C-01085,Bloom Coffee House 586,Subscription,Corporate Office,Gauteng,25000,30,2021-12-01,R-006
+C-01086,Ridgeway Foods 639,Subscription,Small Business,Gauteng,25000,30,2016-02-28,R-010
+C-01087,Cape Point Coffee 683,Subscription,Medical Practice,Gauteng,25000,30,2016-05-20,R-008
+C-01088,Cape Point Coffee 392,Subscription,Small Business,Gauteng,25000,30,2019-09-27,R-010
+C-01089,Karoo Provisions 837,Subscription,Small Business,Gauteng,25000,30,2018-08-25,R-015
+C-01090,Vaal Trading Co 76,Subscription,Medical Practice,Western Cape,100000,30,2015-01-06,R-001
+C-01091,Cape Point Coffee 857,Subscription,Co-working Space,Gauteng,25000,30,2017-08-07,R-001
+C-01092,Zebra Cafe 139,Subscription,Small Business,Gauteng,50000,30,2023-05-31,R-014
+C-01093,Kalahari Kitchen 753,Subscription,Corporate Office,KwaZulu-Natal,50000,30,2015-04-29,R-015
+C-01094,Zebra Cafe 49,Subscription,Corporate Office,Western Cape,50000,30,2015-04-01,R-011
+C-01095,Roasted Bean Cafe 216,Subscription,Small Business,KwaZulu-Natal,25000,30,2020-03-31,R-012
+C-01096,Umhlanga Fresh 51,Subscription,Corporate Office,Free State,25000,30,2021-11-24,R-015
+C-01097,Boland Bakery 897,Subscription,Corporate Office,Limpopo,50000,30,2020-02-02,R-018
+C-01098,Midrand Market 549,Subscription,Small Business,Western Cape,50000,30,2022-05-08,R-003
+C-01099,Boland Bakery 869,Subscription,Corporate Office,Gauteng,25000,30,2021-01-28,R-018
+C-01100,Midrand Market 246,Subscription,Small Business,Gauteng,25000,30,2024-07-03,R-011
+C-01101,Karoo Provisions 321,Subscription,Corporate Office,Gauteng,50000,30,2021-04-14,R-002
+C-01102,Karoo Provisions 250,Subscription,Corporate Office,Western Cape,50000,30,2023-11-24,R-017
+C-01103,Kalahari Kitchen 778,Subscription,Small Business,Western Cape,50000,30,2021-11-02,R-007
+C-01104,Sunrise Foods 703,Subscription,Small Business,KwaZulu-Natal,25000,30,2020-02-24,R-007
+C-01105,Cape Point Coffee 575,Subscription,Medical Practice,Western Cape,25000,30,2018-07-02,R-006
+C-01106,Roasted Bean Cafe 77,Subscription,Small Business,Western Cape,50000,30,2018-11-06,R-012
+C-01107,Bloom Coffee House 232,Subscription,Corporate Office,Western Cape,25000,30,2015-08-22,R-018
+C-01108,Karoo Provisions 147,Subscription,Corporate Office,KwaZulu-Natal,100000,30,2020-08-15,R-003
+C-01109,Table Bay Foods 111,Subscription,Co-working Space,KwaZulu-Natal,25000,30,2016-08-18,R-008
+C-01110,Corner Perk 281,Subscription,Corporate Office,Western Cape,25000,30,2018-04-17,R-002
+C-01111,Table Bay Foods 213,Subscription,Co-working Space,KwaZulu-Natal,50000,30,2023-05-18,R-006
+C-01112,Table Bay Foods 546,Subscription,Small Business,KwaZulu-Natal,25000,30,2017-06-11,R-014
+C-01113,Midrand Market 790,Subscription,Co-working Space,Gauteng,50000,30,2016-01-24,R-004
+C-01114,Ridgeway Foods 134,Subscription,Small Business,Gauteng,25000,30,2017-10-05,R-010
+C-01115,Karoo Provisions 570,Subscription,Small Business,KwaZulu-Natal,25000,30,2016-10-13,R-013
+C-01116,Umhlanga Fresh 33,Subscription,Medical Practice,Gauteng,25000,30,2017-12-03,R-010
+C-01117,Bloom Coffee House 228,Subscription,Corporate Office,Gauteng,50000,30,2019-07-31,R-007
+C-01118,Umhlanga Fresh 773,Subscription,Small Business,Gauteng,25000,30,2016-02-21,R-011
+C-01119,Zebra Cafe 848,Subscription,Corporate Office,Limpopo,50000,30,2018-06-15,R-016
+C-01120,Midrand Market 406,Subscription,Medical Practice,Gauteng,25000,30,2023-03-26,R-006
+C-01121,Midrand Market 584,Subscription,Small Business,Gauteng,25000,30,2024-02-20,R-017
+C-01122,Ridgeway Foods 450,Subscription,Co-working Space,Gauteng,100000,30,2017-12-24,R-018
+C-01123,Cape Point Coffee 873,Subscription,Corporate Office,KwaZulu-Natal,100000,30,2024-03-30,R-017
+C-01124,Kalahari Kitchen 222,Subscription,Co-working Space,Western Cape,100000,30,2019-06-01,R-016
+C-01125,Roasted Bean Cafe 215,Subscription,Small Business,Gauteng,25000,30,2018-06-25,R-014
+C-01126,Table Bay Foods 814,Subscription,Corporate Office,Western Cape,25000,30,2023-11-14,R-017
+C-01127,Kalahari Kitchen 441,Subscription,Corporate Office,Eastern Cape,100000,30,2015-05-19,R-016
+C-01128,Umhlanga Fresh 368,Subscription,Medical Practice,Gauteng,50000,30,2022-10-09,R-005
+C-01129,Kalahari Kitchen 138,Subscription,Co-working Space,Mpumalanga,25000,30,2019-08-06,R-014
+C-01130,Boland Bakery 261,Subscription,Medical Practice,Gauteng,50000,30,2015-05-06,R-003
+C-01131,Umhlanga Fresh 215,Subscription,Small Business,Gauteng,25000,30,2023-01-19,R-012
+C-01132,Midrand Market 342,Subscription,Corporate Office,Western Cape,25000,30,2024-01-17,R-015
+C-01133,Zebra Cafe 508,Subscription,Corporate Office,Gauteng,50000,30,2018-03-08,R-001
+C-01134,Zebra Cafe 829,Subscription,Co-working Space,Gauteng,50000,30,2018-10-11,R-015
+C-01135,Boland Bakery 804,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2019-02-28,R-014
+C-01136,Zebra Cafe 707,Subscription,Corporate Office,Gauteng,25000,30,2023-12-30,R-011
+C-01137,Boland Bakery 745,Subscription,Corporate Office,Gauteng,25000,30,2022-08-13,R-015
+C-01138,Kalahari Kitchen 571,Subscription,Small Business,Gauteng,100000,30,2024-10-27,R-018
+C-01139,Ridgeway Foods 125,Subscription,Corporate Office,North West,50000,30,2016-05-16,R-002
+C-01140,Kalahari Kitchen 215,Subscription,Corporate Office,Gauteng,100000,30,2024-09-17,R-006
+C-01141,Sunrise Foods 754,Subscription,Small Business,Gauteng,50000,30,2021-11-26,R-006
+C-01142,Cape Point Coffee 256,Subscription,Co-working Space,Eastern Cape,25000,30,2017-02-03,R-007
+C-01143,Vaal Trading Co 393,Subscription,Corporate Office,Mpumalanga,50000,30,2021-06-18,R-001
+C-01144,Zebra Cafe 215,Subscription,Corporate Office,Western Cape,25000,30,2021-01-23,R-010
+C-01145,Midrand Market 92,Subscription,Co-working Space,Gauteng,25000,30,2020-06-01,R-003
+C-01146,Table Bay Foods 887,Subscription,Co-working Space,Western Cape,25000,30,2015-04-13,R-017
+C-01147,Bloom Coffee House 432,Subscription,Small Business,Eastern Cape,50000,30,2015-10-28,R-001
+C-01148,Sunrise Foods 662,Subscription,Small Business,KwaZulu-Natal,50000,30,2023-06-21,R-003
+C-01149,Kalahari Kitchen 806,Subscription,Corporate Office,Gauteng,50000,30,2021-01-04,R-008
+C-01150,Table Bay Foods 185,Subscription,Medical Practice,Gauteng,25000,30,2018-09-28,R-011
+C-01151,Corner Perk 602,Subscription,Corporate Office,Limpopo,25000,30,2023-03-30,R-007
+C-01152,Karoo Provisions 298,Subscription,Small Business,Western Cape,25000,30,2015-11-02,R-013
+C-01153,Boland Bakery 653,Subscription,Medical Practice,KwaZulu-Natal,50000,30,2016-02-27,R-014
+C-01154,Cape Point Coffee 250,Subscription,Small Business,Gauteng,25000,30,2017-07-25,R-010
+C-01155,Corner Perk 86,Subscription,Medical Practice,Western Cape,50000,30,2019-07-25,R-006
+C-01156,Karoo Provisions 315,Subscription,Small Business,Gauteng,25000,30,2024-06-10,R-002
+C-01157,Midrand Market 703,Subscription,Corporate Office,Limpopo,50000,30,2018-12-12,R-005
+C-01158,Roasted Bean Cafe 102,Subscription,Co-working Space,Gauteng,25000,30,2020-01-12,R-002
+C-01159,Zebra Cafe 767,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2024-02-26,R-015
+C-01160,Boland Bakery 367,Subscription,Co-working Space,KwaZulu-Natal,50000,30,2015-09-30,R-002
+C-01161,Umhlanga Fresh 472,Subscription,Corporate Office,Western Cape,100000,30,2018-12-06,R-009
+C-01162,Cape Point Coffee 862,Subscription,Corporate Office,KwaZulu-Natal,50000,30,2019-05-06,R-007
+C-01163,Roasted Bean Cafe 674,Subscription,Co-working Space,Gauteng,25000,30,2019-02-19,R-003
+C-01164,Karoo Provisions 748,Subscription,Medical Practice,Gauteng,50000,30,2015-05-24,R-017
+C-01165,Table Bay Foods 625,Subscription,Co-working Space,Free State,25000,30,2015-07-24,R-013
+C-01166,Karoo Provisions 244,Subscription,Co-working Space,Gauteng,25000,30,2018-07-29,R-001
+C-01167,Vaal Trading Co 490,Subscription,Small Business,Mpumalanga,25000,30,2024-06-15,R-001
+C-01168,Vaal Trading Co 62,Subscription,Corporate Office,Gauteng,100000,30,2024-01-23,R-011
+C-01169,Cape Point Coffee 520,Subscription,Corporate Office,Gauteng,50000,30,2017-06-28,R-002
+C-01170,Kalahari Kitchen 61,Subscription,Small Business,KwaZulu-Natal,25000,30,2018-11-09,R-016
+C-01171,Ridgeway Foods 267,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2016-04-04,R-006
+C-01172,Cape Point Coffee 177,Subscription,Co-working Space,Western Cape,50000,30,2021-06-29,R-010
+C-01173,Boland Bakery 482,Subscription,Medical Practice,Western Cape,50000,30,2015-05-15,R-010
+C-01174,Kalahari Kitchen 1,Subscription,Co-working Space,KwaZulu-Natal,50000,30,2023-07-10,R-010
+C-01175,Highveld Deli 708,Subscription,Medical Practice,Gauteng,100000,30,2020-11-21,R-006
+C-01176,The Daily Grind 580,Subscription,Small Business,Eastern Cape,25000,30,2024-05-31,R-018
+C-01177,Roasted Bean Cafe 722,Subscription,Co-working Space,North West,25000,30,2015-03-09,R-017
+C-01178,Table Bay Foods 435,Subscription,Small Business,Gauteng,25000,30,2020-02-24,R-016
+C-01179,Boland Bakery 584,Subscription,Medical Practice,Western Cape,25000,30,2020-03-13,R-013
+C-01180,Sunrise Foods 150,Subscription,Corporate Office,Gauteng,50000,30,2015-03-21,R-007
+C-01181,Cape Point Coffee 653,Subscription,Corporate Office,Gauteng,25000,30,2018-10-09,R-014
+C-01182,Cape Point Coffee 701,Subscription,Small Business,Gauteng,50000,30,2024-03-15,R-017
+C-01183,Kalahari Kitchen 823,Subscription,Small Business,Free State,50000,30,2020-08-08,R-012
+C-01184,Midrand Market 186,Subscription,Co-working Space,KwaZulu-Natal,25000,30,2020-06-11,R-007
+C-01185,Highveld Deli 847,Subscription,Corporate Office,KwaZulu-Natal,50000,30,2015-07-16,R-001
+C-01186,Highveld Deli 511,Subscription,Medical Practice,Free State,50000,30,2018-03-29,R-015
+C-01187,Roasted Bean Cafe 486,Subscription,Small Business,Gauteng,50000,30,2022-01-20,R-012
+C-01188,Kalahari Kitchen 547,Subscription,Medical Practice,Western Cape,100000,30,2017-12-17,R-005
+C-01189,Bloom Coffee House 570,Subscription,Corporate Office,Mpumalanga,25000,30,2021-03-12,R-004
+C-01190,Roasted Bean Cafe 633,Subscription,Corporate Office,Eastern Cape,100000,30,2023-04-13,R-001
+C-01191,Bloom Coffee House 504,Subscription,Medical Practice,Western Cape,100000,30,2021-06-27,R-001
+C-01192,Table Bay Foods 423,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2016-11-24,R-009
+C-01193,Roasted Bean Cafe 286,Subscription,Medical Practice,Gauteng,25000,30,2015-06-29,R-002
+C-01194,Roasted Bean Cafe 141,Subscription,Small Business,Western Cape,100000,30,2016-10-16,R-002
+C-01195,Kalahari Kitchen 639,Subscription,Corporate Office,Gauteng,50000,30,2017-05-14,R-017
+C-01196,Sunrise Foods 324,Subscription,Small Business,KwaZulu-Natal,25000,30,2015-11-10,R-009
+C-01197,Boland Bakery 889,Subscription,Corporate Office,Western Cape,25000,30,2023-12-01,R-006
+C-01198,Zebra Cafe 530,Subscription,Corporate Office,Western Cape,50000,30,2015-02-19,R-010
+C-01199,Corner Perk 675,Subscription,Corporate Office,North West,25000,30,2018-07-17,R-008
+C-01200,Midrand Market 529,Subscription,Corporate Office,Gauteng,25000,30,2018-08-26,R-010
+C-01201,Bloom Coffee House 71,Subscription,Small Business,Western Cape,25000,30,2017-12-25,R-009
+C-01202,Corner Perk 344,Subscription,Corporate Office,Gauteng,100000,30,2019-06-20,R-013
+C-01203,Corner Perk 262,Subscription,Small Business,Western Cape,100000,30,2018-04-16,R-015
+C-01204,Midrand Market 832,Subscription,Corporate Office,Mpumalanga,50000,30,2022-04-28,R-014
+C-01205,Vaal Trading Co 649,Subscription,Corporate Office,Gauteng,25000,30,2016-10-27,R-012
+C-01206,Ridgeway Foods 871,Subscription,Co-working Space,Western Cape,25000,30,2016-05-01,R-012
+C-01207,Bloom Coffee House 195,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2022-03-04,R-002
+C-01208,Highveld Deli 709,Subscription,Corporate Office,Western Cape,100000,30,2019-12-31,R-017
+C-01209,Cape Point Coffee 203,Subscription,Co-working Space,Eastern Cape,25000,30,2015-02-04,R-011
+C-01210,Roasted Bean Cafe 857,Subscription,Corporate Office,Gauteng,25000,30,2018-12-20,R-007
+C-01211,The Daily Grind 506,Subscription,Small Business,Gauteng,25000,30,2023-06-15,R-012
+C-01212,Karoo Provisions 254,Subscription,Corporate Office,Eastern Cape,25000,30,2020-10-19,R-003
+C-01213,Umhlanga Fresh 638,Subscription,Corporate Office,Gauteng,25000,30,2017-03-09,R-015
+C-01214,Highveld Deli 506,Subscription,Medical Practice,Eastern Cape,100000,30,2016-05-02,R-017
+C-01215,Umhlanga Fresh 527,Subscription,Corporate Office,Western Cape,25000,30,2021-06-28,R-014
+C-01216,Umhlanga Fresh 24,Subscription,Small Business,Gauteng,25000,30,2021-02-10,R-005
+C-01217,Ridgeway Foods 756,Subscription,Corporate Office,Western Cape,50000,30,2020-12-10,R-014
+C-01218,Roasted Bean Cafe 575,Subscription,Co-working Space,Free State,25000,30,2023-03-12,R-010
+C-01219,Vaal Trading Co 266,Subscription,Co-working Space,Gauteng,50000,30,2021-12-21,R-016
+C-01220,Zebra Cafe 751,Subscription,Small Business,North West,25000,30,2015-05-14,R-009
+C-01221,Roasted Bean Cafe 199,Subscription,Corporate Office,Gauteng,25000,30,2015-08-08,R-002
+C-01222,Sunrise Foods 175,Subscription,Corporate Office,North West,50000,30,2021-04-14,R-013
+C-01223,Corner Perk 728,Subscription,Medical Practice,Western Cape,50000,30,2016-02-16,R-002
+C-01224,Ridgeway Foods 101,Subscription,Corporate Office,Gauteng,50000,30,2024-06-03,R-017
+C-01225,Roasted Bean Cafe 545,Subscription,Small Business,Gauteng,50000,30,2023-05-02,R-004
+C-01226,Umhlanga Fresh 389,Subscription,Corporate Office,Western Cape,50000,30,2018-03-18,R-003
+C-01227,The Daily Grind 898,Subscription,Small Business,Free State,25000,30,2018-09-15,R-018
+C-01228,Corner Perk 356,Subscription,Small Business,Mpumalanga,50000,30,2016-06-24,R-013
+C-01229,Midrand Market 679,Subscription,Co-working Space,Western Cape,50000,30,2023-04-17,R-018
+C-01230,Boland Bakery 844,Subscription,Co-working Space,Gauteng,50000,30,2015-06-29,R-010
+C-01231,Highveld Deli 881,Subscription,Small Business,Gauteng,50000,30,2016-07-27,R-012
+C-01232,Boland Bakery 398,Subscription,Small Business,Gauteng,25000,30,2020-11-06,R-005
+C-01233,Highveld Deli 898,Subscription,Corporate Office,Western Cape,25000,30,2024-08-28,R-017
+C-01234,The Daily Grind 142,Subscription,Corporate Office,Gauteng,25000,30,2015-06-26,R-011
+C-01235,Cape Point Coffee 749,Subscription,Corporate Office,Eastern Cape,50000,30,2019-09-11,R-017
+C-01236,Umhlanga Fresh 142,Subscription,Co-working Space,KwaZulu-Natal,50000,30,2021-11-11,R-018
+C-01237,Boland Bakery 9,Subscription,Small Business,Western Cape,25000,30,2024-10-09,R-017
+C-01238,Karoo Provisions 345,Subscription,Medical Practice,Gauteng,25000,30,2018-09-11,R-010
+C-01239,The Daily Grind 832,Subscription,Corporate Office,Gauteng,25000,30,2018-05-29,R-016
+C-01240,Table Bay Foods 687,Subscription,Co-working Space,Gauteng,25000,30,2023-08-03,R-014
+C-01241,Umhlanga Fresh 567,Subscription,Medical Practice,Western Cape,100000,30,2017-09-07,R-003
+C-01242,Ridgeway Foods 489,Subscription,Corporate Office,Gauteng,100000,30,2023-08-21,R-011
+C-01243,Sunrise Foods 780,Subscription,Corporate Office,Gauteng,25000,30,2019-10-06,R-002
+C-01244,The Daily Grind 870,Subscription,Small Business,Gauteng,100000,30,2023-10-22,R-018
+C-01245,Boland Bakery 138,Subscription,Co-working Space,Gauteng,50000,30,2024-04-09,R-011
+C-01246,Karoo Provisions 748,Subscription,Corporate Office,Gauteng,50000,30,2021-06-26,R-006
+C-01247,Cape Point Coffee 196,Subscription,Co-working Space,Gauteng,50000,30,2022-09-17,R-007
+C-01248,The Daily Grind 778,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2022-03-15,R-008
+C-01249,Sunrise Foods 652,Subscription,Small Business,Gauteng,25000,30,2019-11-09,R-005
+C-01250,Ridgeway Foods 196,Subscription,Corporate Office,KwaZulu-Natal,50000,30,2023-09-04,R-007
+C-01251,Highveld Deli 819,Subscription,Corporate Office,KwaZulu-Natal,50000,30,2015-07-28,R-018
+C-01252,Kalahari Kitchen 869,Subscription,Co-working Space,Gauteng,25000,30,2023-07-09,R-006
+C-01253,Highveld Deli 356,Subscription,Co-working Space,Limpopo,50000,30,2018-11-04,R-004
+C-01254,Umhlanga Fresh 642,Subscription,Medical Practice,Gauteng,25000,30,2017-01-12,R-001
+C-01255,Sunrise Foods 848,Subscription,Small Business,Gauteng,50000,30,2023-08-17,R-015
+C-01256,Kalahari Kitchen 378,Subscription,Corporate Office,Eastern Cape,100000,30,2015-05-01,R-006
+C-01257,Highveld Deli 604,Subscription,Small Business,Gauteng,100000,30,2022-10-31,R-001
+C-01258,Bloom Coffee House 74,Subscription,Corporate Office,Western Cape,50000,30,2016-04-05,R-017
+C-01259,Kalahari Kitchen 678,Subscription,Corporate Office,Western Cape,50000,30,2020-05-23,R-015
+C-01260,Ridgeway Foods 714,Subscription,Co-working Space,Eastern Cape,100000,30,2015-11-17,R-018
+C-01261,Vaal Trading Co 845,Subscription,Corporate Office,Eastern Cape,100000,30,2019-05-18,R-010
+C-01262,Sunrise Foods 520,Subscription,Corporate Office,Western Cape,25000,30,2018-11-27,R-012
+C-01263,Midrand Market 670,Subscription,Small Business,Free State,50000,30,2015-02-06,R-007
+C-01264,Midrand Market 118,Subscription,Corporate Office,Western Cape,50000,30,2024-03-10,R-012
+C-01265,Table Bay Foods 68,Subscription,Corporate Office,Gauteng,50000,30,2017-03-25,R-008
+C-01266,Sunrise Foods 262,Subscription,Corporate Office,Gauteng,25000,30,2023-09-21,R-014
+C-01267,Kalahari Kitchen 55,Subscription,Corporate Office,Western Cape,50000,30,2019-01-14,R-007
+C-01268,Midrand Market 599,Subscription,Corporate Office,Western Cape,25000,30,2024-03-19,R-017
+C-01269,Umhlanga Fresh 473,Subscription,Small Business,Gauteng,100000,30,2021-05-10,R-006
+C-01270,Table Bay Foods 791,Subscription,Corporate Office,KwaZulu-Natal,50000,30,2020-11-10,R-011
+C-01271,Ridgeway Foods 385,Subscription,Medical Practice,Western Cape,100000,30,2023-07-14,R-002
+C-01272,Boland Bakery 79,Subscription,Corporate Office,Western Cape,25000,30,2017-04-22,R-006
+C-01273,Karoo Provisions 149,Subscription,Small Business,Western Cape,25000,30,2021-02-18,R-006
+C-01274,Kalahari Kitchen 536,Subscription,Corporate Office,Western Cape,25000,30,2019-04-20,R-004
+C-01275,Midrand Market 564,Subscription,Corporate Office,Eastern Cape,50000,30,2018-11-08,R-008
+C-01276,Zebra Cafe 761,Subscription,Corporate Office,Western Cape,25000,30,2021-04-13,R-014
+C-01277,Cape Point Coffee 668,Subscription,Corporate Office,Mpumalanga,25000,30,2018-03-23,R-005
+C-01278,Ridgeway Foods 25,Subscription,Corporate Office,Western Cape,25000,30,2023-11-03,R-012
+C-01279,Umhlanga Fresh 585,Subscription,Small Business,KwaZulu-Natal,50000,30,2019-08-29,R-018
+C-01280,Cape Point Coffee 498,Subscription,Small Business,North West,50000,30,2018-04-11,R-006
+C-01281,Highveld Deli 246,Subscription,Small Business,Gauteng,25000,30,2018-04-06,R-015
+C-01282,Bloom Coffee House 830,Subscription,Small Business,North West,50000,30,2021-11-28,R-001
+C-01283,Sunrise Foods 859,Subscription,Corporate Office,KwaZulu-Natal,50000,30,2017-01-27,R-005
+C-01284,Midrand Market 619,Subscription,Corporate Office,Eastern Cape,100000,30,2019-09-14,R-013
+C-01285,Table Bay Foods 603,Subscription,Small Business,Western Cape,25000,30,2021-08-01,R-003
+C-01286,Table Bay Foods 757,Subscription,Corporate Office,Western Cape,50000,30,2021-03-24,R-001
+C-01287,Sunrise Foods 318,Subscription,Medical Practice,Gauteng,25000,30,2019-04-24,R-016
+C-01288,Bloom Coffee House 835,Subscription,Small Business,Eastern Cape,50000,30,2020-09-15,R-012
+C-01289,Ridgeway Foods 420,Subscription,Corporate Office,Western Cape,25000,30,2020-04-29,R-003
+C-01290,Bloom Coffee House 152,Subscription,Medical Practice,Free State,25000,30,2020-09-01,R-014
+C-01291,Midrand Market 364,Subscription,Small Business,KwaZulu-Natal,50000,30,2018-01-18,R-009
+C-01292,Karoo Provisions 758,Subscription,Corporate Office,Gauteng,50000,30,2017-07-14,R-004
+C-01293,Table Bay Foods 729,Subscription,Small Business,Western Cape,50000,30,2022-01-29,R-009
+C-01294,Kalahari Kitchen 338,Subscription,Co-working Space,Free State,100000,30,2022-05-12,R-016
+C-01295,Kalahari Kitchen 573,Subscription,Small Business,Eastern Cape,100000,30,2018-01-10,R-015
+C-01296,Kalahari Kitchen 596,Subscription,Corporate Office,Eastern Cape,25000,30,2015-03-16,R-007
+C-01297,Ridgeway Foods 888,Subscription,Medical Practice,Western Cape,25000,30,2017-02-28,R-005
+C-01298,Kalahari Kitchen 267,Subscription,Corporate Office,Mpumalanga,50000,30,2024-08-10,R-007
+C-01299,Corner Perk 320,Subscription,Small Business,Gauteng,50000,30,2021-10-08,R-003
+C-01300,Kalahari Kitchen 158,Subscription,Co-working Space,Limpopo,50000,30,2022-12-14,R-003
+C-01301,Zebra Cafe 549,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2024-06-07,R-015
+C-01302,Midrand Market 409,Subscription,Co-working Space,Western Cape,100000,30,2019-10-02,R-015
+C-01303,Vaal Trading Co 706,Subscription,Medical Practice,Western Cape,50000,30,2017-08-12,R-013
+C-01304,Sunrise Foods 529,Subscription,Corporate Office,Gauteng,50000,30,2021-01-08,R-007
+C-01305,The Daily Grind 456,Subscription,Medical Practice,Gauteng,25000,30,2021-01-07,R-007
+C-01306,Cape Point Coffee 656,Subscription,Co-working Space,Western Cape,100000,30,2016-11-01,R-016
+C-01307,Cape Point Coffee 454,Subscription,Small Business,Limpopo,100000,30,2018-03-05,R-001
+C-01308,Roasted Bean Cafe 574,Subscription,Corporate Office,Western Cape,25000,30,2019-02-17,R-011
+C-01309,Table Bay Foods 490,Subscription,Corporate Office,Eastern Cape,25000,30,2017-02-11,R-004
+C-01310,Bloom Coffee House 506,Subscription,Co-working Space,Eastern Cape,100000,30,2020-09-01,R-001
+C-01311,Boland Bakery 537,Subscription,Small Business,Gauteng,25000,30,2015-04-03,R-009
+C-01312,Corner Perk 699,Subscription,Medical Practice,KwaZulu-Natal,100000,30,2019-11-15,R-006
+C-01313,The Daily Grind 682,Subscription,Small Business,Gauteng,25000,30,2016-04-08,R-003
+C-01314,Zebra Cafe 419,Subscription,Corporate Office,Mpumalanga,25000,30,2019-07-04,R-011
+C-01315,Table Bay Foods 92,Subscription,Small Business,Gauteng,25000,30,2019-11-02,R-006
+C-01316,Highveld Deli 401,Subscription,Corporate Office,Gauteng,25000,30,2020-12-15,R-013
+C-01317,Karoo Provisions 88,Subscription,Corporate Office,Western Cape,50000,30,2017-10-06,R-004
+C-01318,Boland Bakery 11,Subscription,Small Business,Western Cape,25000,30,2022-03-20,R-004
+C-01319,Karoo Provisions 793,Subscription,Corporate Office,Western Cape,50000,30,2021-07-08,R-011
+C-01320,Kalahari Kitchen 560,Subscription,Co-working Space,Eastern Cape,100000,30,2018-01-23,R-014
+C-01321,Corner Perk 897,Subscription,Corporate Office,Western Cape,25000,30,2019-02-26,R-002
+C-01322,Ridgeway Foods 63,Subscription,Corporate Office,Mpumalanga,25000,30,2016-07-13,R-014
+C-01323,Roasted Bean Cafe 629,Subscription,Small Business,KwaZulu-Natal,25000,30,2016-08-08,R-002
+C-01324,Zebra Cafe 442,Subscription,Corporate Office,Western Cape,25000,30,2022-09-16,R-004
+C-01325,The Daily Grind 210,Subscription,Corporate Office,Gauteng,50000,30,2015-06-30,R-014
+C-01326,Bloom Coffee House 789,Subscription,Corporate Office,Western Cape,25000,30,2022-04-21,R-004
+C-01327,Bloom Coffee House 878,Subscription,Co-working Space,Eastern Cape,50000,30,2018-08-14,R-015
+C-01328,Cape Point Coffee 660,Subscription,Small Business,Western Cape,50000,30,2021-03-11,R-013
+C-01329,Roasted Bean Cafe 872,Subscription,Medical Practice,Free State,50000,30,2022-09-27,R-003
+C-01330,Umhlanga Fresh 101,Subscription,Small Business,Eastern Cape,25000,30,2021-01-04,R-018
+C-01331,Roasted Bean Cafe 415,Subscription,Small Business,KwaZulu-Natal,100000,30,2020-12-17,R-017
+C-01332,Bloom Coffee House 451,Subscription,Small Business,Eastern Cape,50000,30,2017-07-20,R-016
+C-01333,Boland Bakery 141,Subscription,Corporate Office,Gauteng,50000,30,2019-09-28,R-018
+C-01334,Boland Bakery 320,Subscription,Co-working Space,Gauteng,25000,30,2016-07-30,R-014
+C-01335,Bloom Coffee House 588,Subscription,Co-working Space,Western Cape,50000,30,2020-06-18,R-014
+C-01336,Zebra Cafe 375,Subscription,Small Business,Eastern Cape,25000,30,2022-05-22,R-003
+C-01337,Cape Point Coffee 710,Subscription,Corporate Office,KwaZulu-Natal,100000,30,2017-08-20,R-007
+C-01338,Corner Perk 171,Subscription,Small Business,KwaZulu-Natal,25000,30,2018-02-02,R-017
+C-01339,Umhlanga Fresh 159,Subscription,Small Business,KwaZulu-Natal,50000,30,2015-07-03,R-018
+C-01340,Boland Bakery 132,Subscription,Corporate Office,Gauteng,25000,30,2024-02-20,R-008
+C-01341,Roasted Bean Cafe 302,Subscription,Medical Practice,Gauteng,25000,30,2024-02-28,R-002
+C-01342,Umhlanga Fresh 251,Subscription,Small Business,Free State,50000,30,2015-07-22,R-005
+C-01343,Karoo Provisions 747,Subscription,Small Business,Western Cape,25000,30,2016-01-31,R-006
+C-01344,Sunrise Foods 202,Subscription,Small Business,Mpumalanga,25000,30,2016-09-07,R-001
+C-01345,Corner Perk 133,Subscription,Small Business,Western Cape,50000,30,2016-11-29,R-005
+C-01346,Cape Point Coffee 182,Subscription,Medical Practice,Gauteng,50000,30,2021-12-23,R-008
+C-01347,Ridgeway Foods 238,Subscription,Small Business,Mpumalanga,50000,30,2022-10-24,R-004
+C-01348,Umhlanga Fresh 778,Subscription,Corporate Office,Gauteng,50000,30,2024-04-22,R-001
+C-01349,Highveld Deli 11,Subscription,Corporate Office,Gauteng,50000,30,2017-11-18,R-011
+C-01350,Ridgeway Foods 796,Subscription,Medical Practice,Gauteng,25000,30,2015-05-01,R-001
+C-01351,Sunrise Foods 740,Subscription,Small Business,Eastern Cape,25000,30,2021-10-19,R-011
+C-01352,Corner Perk 785,Subscription,Co-working Space,Gauteng,50000,30,2019-01-15,R-012
+C-01353,Table Bay Foods 219,Subscription,Corporate Office,Limpopo,100000,30,2018-01-03,R-001
+C-01354,Karoo Provisions 600,Subscription,Co-working Space,Gauteng,100000,30,2024-07-16,R-001
+C-01355,Zebra Cafe 4,Subscription,Corporate Office,Eastern Cape,25000,30,2022-06-27,R-018
+C-01356,Umhlanga Fresh 244,Subscription,Corporate Office,Western Cape,25000,30,2021-10-03,R-007
+C-01357,Roasted Bean Cafe 607,Subscription,Corporate Office,Western Cape,100000,30,2016-05-11,R-006
+C-01358,The Daily Grind 105,Subscription,Co-working Space,Western Cape,25000,30,2024-07-01,R-005
+C-01359,Corner Perk 759,Subscription,Corporate Office,KwaZulu-Natal,50000,30,2018-12-26,R-001
+C-01360,Zebra Cafe 233,Subscription,Corporate Office,Western Cape,25000,30,2020-02-26,R-018
+C-01361,Table Bay Foods 35,Subscription,Corporate Office,Gauteng,50000,30,2023-04-26,R-009
+C-01362,Table Bay Foods 89,Subscription,Small Business,Gauteng,25000,30,2022-12-30,R-009
+C-01363,Vaal Trading Co 777,Subscription,Medical Practice,Western Cape,25000,30,2021-01-14,R-004
+C-01364,Highveld Deli 852,Subscription,Small Business,Gauteng,25000,30,2019-09-20,R-004
+C-01365,Table Bay Foods 257,Subscription,Corporate Office,Gauteng,50000,30,2015-03-11,R-003
+C-01366,Highveld Deli 710,Subscription,Corporate Office,Gauteng,25000,30,2015-12-05,R-005
+C-01367,The Daily Grind 674,Subscription,Co-working Space,Gauteng,25000,30,2024-08-18,R-017
+C-01368,The Daily Grind 215,Subscription,Co-working Space,KwaZulu-Natal,25000,30,2020-08-15,R-011
+C-01369,Table Bay Foods 167,Subscription,Small Business,KwaZulu-Natal,25000,30,2020-02-15,R-001
+C-01370,Cape Point Coffee 893,Subscription,Medical Practice,Gauteng,100000,30,2022-10-02,R-002
+C-01371,Sunrise Foods 160,Subscription,Small Business,Limpopo,50000,30,2022-01-11,R-003
+C-01372,The Daily Grind 472,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2017-04-15,R-017
+C-01373,Kalahari Kitchen 427,Subscription,Small Business,KwaZulu-Natal,50000,30,2023-01-22,R-008
+C-01374,Corner Perk 659,Subscription,Medical Practice,Limpopo,50000,30,2018-07-13,R-011
+C-01375,Umhlanga Fresh 135,Subscription,Medical Practice,Western Cape,50000,30,2022-06-14,R-015
+C-01376,Karoo Provisions 508,Subscription,Small Business,Western Cape,50000,30,2023-10-05,R-010
+C-01377,Vaal Trading Co 223,Subscription,Small Business,Western Cape,25000,30,2020-03-18,R-003
+C-01378,Table Bay Foods 402,Subscription,Small Business,Gauteng,50000,30,2019-05-01,R-003
+C-01379,Midrand Market 360,Subscription,Corporate Office,Gauteng,50000,30,2015-11-25,R-005
+C-01380,Zebra Cafe 230,Subscription,Corporate Office,Gauteng,50000,30,2024-06-13,R-008
+C-01381,Bloom Coffee House 331,Subscription,Small Business,KwaZulu-Natal,25000,30,2015-01-20,R-008
+C-01382,Umhlanga Fresh 749,Subscription,Co-working Space,Eastern Cape,50000,30,2021-07-24,R-007
+C-01383,Cape Point Coffee 370,Subscription,Small Business,Western Cape,50000,30,2017-04-23,R-010
+C-01384,Karoo Provisions 73,Subscription,Corporate Office,Gauteng,50000,30,2024-02-03,R-018
+C-01385,Vaal Trading Co 349,Subscription,Corporate Office,Western Cape,100000,30,2021-06-29,R-017
+C-01386,Sunrise Foods 670,Subscription,Medical Practice,Gauteng,50000,30,2021-11-27,R-007
+C-01387,Zebra Cafe 187,Subscription,Co-working Space,Western Cape,25000,30,2018-01-24,R-002
+C-01388,Ridgeway Foods 771,Subscription,Corporate Office,KwaZulu-Natal,25000,30,2016-02-02,R-015
+C-01389,Umhlanga Fresh 577,Subscription,Co-working Space,KwaZulu-Natal,25000,30,2020-02-23,R-011
+C-01390,Corner Perk 255,Subscription,Co-working Space,Gauteng,25000,30,2023-02-03,R-013
+C-01391,Umhlanga Fresh 67,Subscription,Co-working Space,Gauteng,100000,30,2023-10-06,R-017
+C-01392,Highveld Deli 524,Subscription,Co-working Space,KwaZulu-Natal,25000,30,2016-04-28,R-007
+C-01393,Bloom Coffee House 832,Subscription,Small Business,Gauteng,25000,30,2021-09-23,R-013
+C-01394,The Daily Grind 558,Subscription,Corporate Office,Gauteng,25000,30,2020-02-26,R-014
+C-01395,Umhlanga Fresh 434,Subscription,Small Business,Mpumalanga,25000,30,2022-10-18,R-004
+C-01396,Cape Point Coffee 734,Subscription,Medical Practice,Gauteng,25000,30,2018-05-09,R-017
+C-01397,Table Bay Foods 309,Subscription,Corporate Office,Gauteng,25000,30,2023-08-29,R-008
+C-01398,Umhlanga Fresh 727,Subscription,Corporate Office,North West,50000,30,2016-11-05,R-006
+C-01399,Roasted Bean Cafe 11,Subscription,Medical Practice,Free State,25000,30,2019-09-29,R-005
+C-01400,Sunrise Foods 670,Subscription,Co-working Space,Western Cape,50000,30,2022-05-27,R-005

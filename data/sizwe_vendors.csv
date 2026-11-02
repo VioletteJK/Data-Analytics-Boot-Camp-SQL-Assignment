@@ -1,0 +1,75 @@
+vendor_id,vendor_name,vendor_type,payment_terms,is_foreign,onboarded_date
+V-0001,Tugela Holdings,Green Beans,30,False,2014-05-23
+V-0002,Drakensberg Holdings,Green Beans,60,True,2020-05-13
+V-0003,Magalies Services,Green Beans,60,True,2022-06-11
+V-0004,Blyde Group,Green Beans,30,True,2022-09-13
+V-0005,Blyde Supplies,Green Beans,30,True,2015-11-24
+V-0006,Caledon Holdings,Green Beans,45,False,2013-12-14
+V-0007,Sundays River Holdings,Green Beans,30,True,2012-09-14
+V-0008,Tugela Supplies,Green Beans,60,False,2019-01-22
+V-0009,Kalahari Group,Green Beans,30,True,2018-04-14
+V-0010,Drakensberg Partners,Green Beans,60,False,2019-01-29
+V-0011,Table Bay Solutions,Green Beans,30,True,2013-10-30
+V-0012,Olifants Partners,Green Beans,60,True,2019-08-06
+V-0013,Blyde Services,Green Beans,45,True,2013-03-10
+V-0014,Highveld Group,Green Beans,30,True,2014-10-07
+V-0015,Kalahari Group,Packaging,45,False,2015-07-28
+V-0016,Orange River Industries,Packaging,30,False,2020-12-29
+V-0017,Sundays River Enterprises,Packaging,30,False,2014-03-08
+V-0018,Caledon Trading,Packaging,60,False,2014-10-09
+V-0019,Berg Industries,Packaging,30,False,2017-03-12
+V-0020,Drakensberg Holdings,Packaging,30,False,2018-06-15
+V-0021,Tugela Trading,Packaging,30,False,2014-11-15
+V-0022,Magalies Industries,Packaging,30,False,2016-10-04
+V-0023,Breede Distributors,Packaging,60,False,2020-12-18
+V-0024,Umgeni Supplies,Logistics,45,False,2014-06-01
+V-0025,Breede Trading,Logistics,30,False,2022-01-05
+V-0026,Berg Industries,Logistics,30,False,2017-04-07
+V-0027,Blyde Holdings,Logistics,30,False,2012-10-08
+V-0028,Sundays River Group,Logistics,30,False,2012-09-04
+V-0029,Olifants Partners,Logistics,60,False,2012-12-20
+V-0030,Caledon Industries,Logistics,30,False,2011-12-06
+V-0031,Caledon Group,Utilities,30,False,2011-11-15
+V-0032,Tugela Holdings,Utilities,30,False,2020-09-07
+V-0033,Olifants Solutions,Utilities,30,False,2013-03-27
+V-0034,Umgeni Solutions,Utilities,45,False,2013-10-02
+V-0035,Kei Industries,Property,30,False,2016-08-22
+V-0036,Kei Partners,Property,60,False,2011-09-25
+V-0037,Sundays River Partners,Property,60,False,2014-02-04
+V-0038,Drakensberg Partners,Property,30,False,2016-06-27
+V-0039,Karoo Industries,Property,60,False,2014-04-06
+V-0040,Berg Services,Professional Services,60,False,2015-10-26
+V-0041,Limpopo Supplies,Professional Services,30,False,2019-04-08
+V-0042,Highveld Services,Professional Services,30,False,2020-11-24
+V-0043,Drakensberg Partners,Professional Services,30,False,2013-06-22
+V-0044,Magalies Solutions,Professional Services,45,False,2020-07-23
+V-0045,Caledon Supplies,Professional Services,60,False,2017-01-07
+V-0046,Umgeni Group,IT,30,False,2013-05-04
+V-0047,Table Bay Services,IT,60,False,2022-10-15
+V-0048,Limpopo Supplies,IT,30,False,2016-05-10
+V-0049,Tugela Industries,IT,45,False,2019-09-19
+V-0050,Karoo Industries,IT,30,False,2021-09-15
+V-0051,Berg Trading,Maintenance,45,False,2013-03-22
+V-0052,Highveld Solutions,Maintenance,30,False,2016-04-19
+V-0053,Caledon Group,Maintenance,45,False,2022-07-19
+V-0054,Berg Trading,Maintenance,45,False,2019-08-16
+V-0055,Kalahari Solutions,Maintenance,45,False,2015-04-27
+V-0056,Olifants Enterprises,Maintenance,30,False,2021-05-30
+V-0057,Kalahari Distributors,Maintenance,30,False,2021-02-26
+V-0058,Kalahari Supplies,Maintenance,30,False,2013-11-18
+V-0059,Caledon Group,Consumables,30,False,2020-05-09
+V-0060,Magalies Enterprises,Consumables,30,False,2014-08-20
+V-0061,Kalahari Trading,Consumables,60,False,2018-03-18
+V-0062,Orange River Holdings,Consumables,45,False,2020-08-03
+V-0063,Olifants Supplies,Consumables,30,False,2022-09-18
+V-0064,Highveld Distributors,Consumables,30,False,2013-01-15
+V-0065,Limpopo Partners,Consumables,30,False,2019-06-18
+V-0066,Olifants Holdings,Marketing,60,False,2020-07-02
+V-0067,Sundays River Supplies,Marketing,45,False,2017-08-19
+V-0068,Vaal Services,Marketing,60,False,2015-05-04
+V-0069,Sundays River Distributors,Marketing,30,False,2012-07-13
+V-0070,Magalies Services,Marketing,45,False,2017-05-07
+V-0071,Sundays River Solutions,Equipment,60,False,2016-01-10
+V-0072,Kei Solutions,Equipment,60,False,2022-09-28
+V-0073,Orange River Solutions,Equipment,30,False,2017-08-05
+V-0074,Orange River Trading,Equipment,30,False,2016-01-05

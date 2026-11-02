@@ -1,0 +1,24 @@
+sku,product_name,product_line,pack_size,list_price,unit_cost,is_active
+SZ-001,House Blend 250g,House Blend,250g,62.91,35.78,True
+SZ-002,House Blend 1kg,House Blend,1kg,212.71,123.61,True
+SZ-003,House Blend 5kg,House Blend,5kg,980.22,591.64,True
+SZ-004,Single Origin Ethiopia Yirgacheffe 250g,Single Origin,250g,94.34,50.96,True
+SZ-005,Single Origin Kenya AA 250g,Single Origin,250g,94.45,52.07,True
+SZ-006,Single Origin Rwanda Bourbon 250g,Single Origin,250g,97.71,50.03,True
+SZ-007,Single Origin Colombia Huila 250g,Single Origin,250g,91.27,50.25,True
+SZ-008,Single Origin Brazil Cerrado 250g,Single Origin,250g,98.76,51.62,True
+SZ-009,Single Origin Tanzania Peaberry 250g,Single Origin,250g,95.39,52.0,True
+SZ-010,Single Origin Ethiopia Yirgacheffe 1kg,Single Origin,1kg,350.08,182.49,True
+SZ-011,Single Origin Kenya AA 1kg,Single Origin,1kg,345.64,183.2,True
+SZ-012,Single Origin Rwanda Bourbon 1kg,Single Origin,1kg,346.92,177.19,True
+SZ-013,Single Origin Colombia Huila 1kg,Single Origin,1kg,339.83,184.27,True
+SZ-014,Single Origin Brazil Cerrado 1kg,Single Origin,1kg,348.05,181.86,True
+SZ-015,Single Origin Tanzania Peaberry 1kg,Single Origin,1kg,349.05,173.87,True
+SZ-016,Bulk Commercial 5kg,Bulk Commercial,5kg,816.65,609.53,True
+SZ-017,Bulk Commercial 10kg,Bulk Commercial,10kg,1538.24,1154.81,True
+SZ-018,Bulk Commercial 25kg,Bulk Commercial,25kg,3618.15,2825.41,True
+SZ-019,Decaf 250g,Decaf,250g,75.41,44.84,True
+SZ-020,Decaf 1kg,Decaf,1kg,257.8,160.46,True
+SZ-021,Capsules 10 pack,Capsules,10 pack,60.05,33.62,True
+SZ-022,Capsules 50 pack,Capsules,50 pack,259.31,160.05,True
+SZ-023,Capsules 100 pack,Capsules,100 pack,492.63,276.15,True
